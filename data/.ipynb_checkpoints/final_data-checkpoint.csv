@@ -1,0 +1,446 @@
+,sport,season,competition_name,event_i_d,event_name_short,event_gender,competition_date,name,person_age_days,person_i_d,country,rank,match_score,snatch1,snatch1_success,snatch2,snatch2_success,snatch3,snatch3_success,cj1,cj1_success,cj2,cj2_success,cj3,cj3_success,total
+0,Weightlifting,2024,Phuket,100017471,55kg ,Men,2024-04-01,PANG Un Chol,8474.0,2065721,PRK,1.0,112,115,True,118,True,120,False,147,True,152,False,152,True,270
+1,Weightlifting,2024,Phuket,100017471,55kg ,Men,2024-04-01,CHOMCHUEN Natthawat,8281.0,1546725,THA,2.0,120,116,True,119,True,121,False,145,True,150,False,150,True,269
+2,Weightlifting,2024,Phuket,100017471,55kg ,Men,2024-04-01,LAI Gia Thanh,9456.0,1583370,VIE,3.0,120,118,True,120,True,122,False,143,False,143,True,148,True,268
+3,Weightlifting,2024,Phuket,100017471,55kg ,Men,2024-04-01,MINGMOON Witoon,10279.0,1163283,THA,4.0,120,105,True,110,False,110,False,140,True,143,True,148,False,248
+4,Weightlifting,2024,Phuket,100017471,55kg ,Men,2024-04-01,YODAGE Dilanka Isuru Kumara,,2265809,SRI,5.0,120,107,True,112,True,115,False,135,True,142,False,144,False,247
+5,Weightlifting,2024,Phuket,100017471,55kg ,Men,2024-04-01,ALPYSSOV Yernaz,,2464461,KAZ,6.0,120,103,True,107,False,107,True,130,False,130,True,135,False,237
+6,Weightlifting,2024,Phuket,100017471,55kg ,Men,2024-04-01,NGO Son Dinh,8279.0,1715942,VIE,,120,115,True,117,False,119,False,143,False,144,False,144,False,0
+7,Weightlifting,2024,Phuket,100017474,61kg ,Men,2024-04-01,LI Fabin,11400.0,949106,CHN,1.0,120,138,True,143,True,146,True,166,True,173,False,173,False,312
+8,Weightlifting,2024,Phuket,100017474,61kg ,Men,2024-04-01,DIMOV Ivan Petkov,7790.0,1821544,BUL,,120,0,False,0,False,0,False,0,False,0,False,0,False,0
+9,Weightlifting,2024,Phuket,100017474,61kg ,Men,2024-04-01,IRAWAN Eko Yuli,12671.0,636333,INA,,120,133,True,0,False,0,False,162,False,0,False,0,False,0
+10,Weightlifting,2024,Phuket,100017474,61kg ,Men,2024-04-01,BARU Morea,12406.0,818244,PNG,13.0,120,118,True,121,True,124,True,153,True,157,False,157,True,281
+11,Weightlifting,2024,Phuket,100017474,61kg ,Men,2024-04-01,KAO Chan-Hung,11139.0,858502,TPE,11.0,120,123,True,127,True,129,False,155,True,161,False,161,False,282
+12,Weightlifting,2024,Phuket,100017474,61kg ,Men,2024-04-01,MISHVELIDZE Shota,10759.0,858754,GEO,12.0,120,130,False,130,False,130,True,152,True,160,False,160,False,282
+13,Weightlifting,2024,Phuket,100017474,61kg ,Men,2024-04-01,CHEN Lijun,11201.0,860572,CHN,,120,140,False,140,False,143,False,0,False,0,False,0,False,0
+14,Weightlifting,2024,Phuket,100017474,61kg ,Men,2024-04-01,BRANDHUBER Simon Josef,11968.0,993408,GER,,120,128,False,130,False,130,False,0,False,0,False,0,False,0
+15,Weightlifting,2024,Phuket,100017474,61kg ,Men,2024-04-01,BARDALEZ TUISIMA Luis David,10409.0,1093510,PER,,120,120,False,120,False,120,False,155,True,160,False,160,False,0
+16,Weightlifting,2024,Phuket,100017474,61kg ,Men,2024-04-01,MUHAMAD Aznil Bin Bidin,10954.0,1144450,MAS,10.0,120,125,True,130,False,133,False,159,True,163,False,163,False,284
+17,Weightlifting,2024,Phuket,100017474,61kg ,Men,2024-04-01,NGUYEN Tran Anh Tuan,9536.0,1144469,VIE,,120,129,True,131,False,132,True,159,False,161,False,161,False,0
+18,Weightlifting,2024,Phuket,100017474,61kg ,Men,2024-04-01,MIRZAYEV Seyitjan,10930.0,1275603,TKM,,120,130,False,130,False,133,False,150,False,0,False,0,False,0
+19,Weightlifting,2024,Phuket,100017474,61kg ,Men,2024-04-01,ALSALEEM Seraj Abdulrahim M,10279.0,1321827,KSA,,120,126,True,130,False,130,False,161,False,161,False,164,False,0
+20,Weightlifting,2024,Phuket,100017474,61kg ,Men,2024-04-01,GUEMEZ CEL Victor Badur,8684.0,1378157,MEX,14.0,120,112,True,117,True,120,False,140,True,145,True,148,False,262
+21,Weightlifting,2024,Phuket,100017474,61kg ,Men,2024-04-01,TRINH Van Vinh,10334.0,1393750,VIE,6.0,120,129,True,131,True,133,False,163,False,163,True,165,False,294
+22,Weightlifting,2024,Phuket,100017474,61kg ,Men,2024-04-01,IANCU Valentin-Ionadi,8843.0,1534433,ROU,,120,105,False,0,False,0,False,0,False,0,False,0,False,0
+23,Weightlifting,2024,Phuket,100017474,61kg ,Men,2024-04-01,CHOMCHUEN Teerapat,8281.0,1546750,THA,7.0,120,126,True,130,True,132,False,161,True,165,False,165,False,291
+24,Weightlifting,2024,Phuket,100017474,61kg ,Men,2024-04-01,CENIZA John Febuar,9551.0,1583397,PHI,4.0,114,130,True,132,True,134,False,163,True,166,True,168,True,300
+25,Weightlifting,2024,Phuket,100017474,61kg ,Men,2024-04-01,SAPUTRA Ricko,8838.0,1645503,INA,,120,130,False,132,False,134,False,0,False,0,False,0,False,0
+26,Weightlifting,2024,Phuket,100017474,61kg ,Men,2024-04-01,CALDERON LICOURT Arley Lazaro,9167.0,1745450,CUB,9.0,120,122,True,127,False,127,False,163,True,168,False,172,False,285
+27,Weightlifting,2024,Phuket,100017474,61kg ,Men,2024-04-01,SHIN Rok,7939.0,1790286,KOR,,120,128,False,129,False,129,False,160,False,160,False,0,False,0
+28,Weightlifting,2024,Phuket,100017474,61kg ,Men,2024-04-01,MORRIS Hampton Miller,7350.0,1813870,USA,2.0,120,124,True,127,True,130,False,169,False,172,True,176,True,303
+29,Weightlifting,2024,Phuket,100017474,61kg ,Men,2024-04-01,NIYOYITA Davis,7397.0,2020823,UGA,15.0,120,90,True,95,True,98,True,123,True,125,False,125,False,221
+30,Weightlifting,2024,Phuket,100017474,61kg ,Men,2024-04-01,MOHAMAD ANIQ Bin Kasdan,7961.0,2059442,MAS,8.0,120,125,False,125,False,125,True,165,False,165,True,172,False,290
+31,Weightlifting,2024,Phuket,100017474,61kg ,Men,2024-04-01,PAK Myong Jin,7671.0,2065599,PRK,3.0,120,131,False,131,False,131,True,165,True,170,False,170,True,301
+32,Weightlifting,2024,Phuket,100017474,61kg ,Men,2024-04-01,ELIS Mustafa,6837.0,2198822,TUR,,120,119,False,119,False,120,False,0,False,0,False,0,False,0
+33,Weightlifting,2024,Phuket,100017474,61kg ,Men,2024-04-01,BIN HAJI ABU BAKAR Mohammad Nashrul,10422.0,2265821,BRU,,120,99,False,99,True,101,True,127,False,127,False,127,False,0
+34,Weightlifting,2024,Phuket,100017474,61kg ,Men,2024-04-01,SILACHAI Theerapong,7440.0,2372290,THA,5.0,120,125,True,128,True,130,False,162,True,167,True,171,True,299
+35,Weightlifting,2024,Phuket,100017474,61kg ,Men,2024-04-01,ALOTAIBI Fahad H T H,5765.0,2500996,KUW,16.0,120,85,False,85,False,85,True,105,True,110,False,110,True,195
+36,Weightlifting,2024,Phuket,100017483,81kg ,Men,2024-04-09,RI Chong Song,9810.0,1273591,PRK,1.0,120,160,True,166,False,166,True,200,True,210,False,210,False,366
+37,Weightlifting,2024,Phuket,100017483,81kg ,Men,2024-04-09,MEREDOV Maksad,8691.0,1645469,TKM,2.0,120,142,True,146,True,150,False,175,True,182,True,0,False,328
+38,Weightlifting,2024,Phuket,100017483,81kg ,Men,2024-04-09,GUERTIN Samuel,8623.0,1818361,CAN,3.0,120,140,False,140,False,140,True,170,True,175,True,180,False,315
+39,Weightlifting,2024,Phuket,100017483,81kg ,Men,2024-04-09,MEARS Omarie Akiel,11136.0,2192654,JAM,4.0,120,115,True,119,True,123,False,145,False,145,False,145,True,264
+40,Weightlifting,2024,Phuket,100017483,81kg ,Men,2024-04-09,GADNEY Andre William,16036.0,2410838,RSA,5.0,120,114,True,120,False,122,False,132,True,137,True,142,False,251
+41,Weightlifting,2024,Phuket,100017483,81kg ,Men,2024-04-09,AlTHAFIRI Falah A H M,,2521180,KUW,6.0,98,84,True,90,True,92,True,105,True,114,True,120,False,206
+42,Weightlifting,2024,Phuket,100017483,81kg ,Men,2024-04-09,MARTINS GARCIA VALENTE Jose Fernanior,9307.0,1715892,TLS,7.0,88,88,True,91,True,93,True,112,True,115,False,115,False,205
+43,Weightlifting,2024,Phuket,100017483,81kg ,Men,2024-04-09,ANDREEV Bozhidar Dimitrov,9944.0,1093405,BUL,,120,0,False,0,False,0,False,0,False,0,False,0,False,0
+44,Weightlifting,2024,Phuket,200017516,45kg ,Women,2024-03-31,WON Hyon Sim,8034.0,2065890,PRK,1.0,120,80,True,85,True,87,True,100,True,106,True,109,True,196
+45,Weightlifting,2024,Phuket,200017516,45kg ,Women,2024-03-31,PRAMONGHKHOL Siriwimon,10715.0,859892,THA,2.0,71,73,False,73,True,75,True,90,True,96,True,101,True,176
+46,Weightlifting,2024,Phuket,200017516,45kg ,Women,2024-03-31,KHONG My Phuong,9036.0,1378063,VIE,3.0,120,72,True,74,True,76,True,84,True,86,False,86,False,160
+47,Weightlifting,2024,Phuket,200017516,45kg ,Women,2024-03-31,KAMNOEDSRI Khemika,7010.0,2408840,THA,4.0,120,67,True,69,True,71,True,82,True,86,False,86,False,153
+48,Weightlifting,2024,Phuket,200017516,45kg ,Women,2024-03-31,ISMAYILOVA Nazila,9457.0,2405391,AZE,5.0,120,55,True,60,False,60,False,65,True,69,False,72,True,127
+49,Weightlifting,2024,Phuket,200017516,45kg ,Women,2024-03-31,NGUYEN Thi Hoai,6554.0,2401575,VIE,,120,68,True,70,True,72,True,85,False,85,False,85,False,0
+50,Weightlifting,2024,Phuket,200017516,45kg ,Women,2024-03-31,HONG Zi-Yu,7932.0,1958307,TPE,,120,68,False,68,False,68,True,86,False,86,False,86,False,0
+51,Weightlifting,2024,Phuket,200017519,49kg ,Women,2024-03-31,TOUA Loa Dika,14527.0,293199,PNG,17.0,120,73,True,75,True,77,False,96,False,96,False,96,True,171
+52,Weightlifting,2024,Phuket,200017519,49kg ,Women,2024-03-31,LOPEZ FERRER Ana Gabriela,10784.0,858385,MEX,9.0,75,84,True,87,True,88,False,100,True,104,False,104,False,187
+53,Weightlifting,2024,Phuket,200017519,49kg ,Women,2024-03-31,PIRON CANDELARIO Beatriz Elizabeth,10626.0,859884,DOM,,120,0,False,0,False,0,False,0,False,0,False,0,False,0
+54,Weightlifting,2024,Phuket,200017519,49kg ,Women,2024-03-31,DE LA HERRAN MARTINEZ Andrea,10063.0,1093445,MEX,15.0,120,78,True,81,False,81,False,95,False,95,True,100,False,173
+55,Weightlifting,2024,Phuket,200017519,49kg ,Women,2024-03-31,MIRABAI Chanu Saikhom,10829.0,1144799,IND,12.0,120,75,True,79,True,81,True,98,True,103,True,106,False,184
+56,Weightlifting,2024,Phuket,200017519,49kg ,Women,2024-03-31,SUKCHAROEN Thanyathon,9842.0,1163342,THA,,120,88,True,91,True,93,False,0,False,0,False,0,False,0
+57,Weightlifting,2024,Phuket,200017519,49kg ,Women,2024-03-31,FANG Wan Ling,9211.0,1163354,TPE,7.0,120,82,True,84,True,85,False,102,True,104,True,108,True,192
+58,Weightlifting,2024,Phuket,200017519,49kg ,Women,2024-03-31,MEGO CONTRERAS Shoely Mabel,8999.0,1271164,PER,14.0,120,77,False,77,True,79,False,97,False,97,True,100,False,174
+59,Weightlifting,2024,Phuket,200017519,49kg ,Women,2024-03-31,AJIMA Chiaki,10119.0,1273619,JPN,,120,81,False,81,False,83,False,103,False,103,False,103,False,0
+60,Weightlifting,2024,Phuket,200017519,49kg ,Women,2024-03-31,JIANG Huihua,9566.0,1273751,CHN,3.0,120,90,True,94,False,94,True,114,True,120,False,123,False,208
+61,Weightlifting,2024,Phuket,200017519,49kg ,Women,2024-03-31,RI Song Gum,9663.0,1304356,PRK,1.0,120,91,True,95,True,97,True,120,True,124,True,126,False,221
+62,Weightlifting,2024,Phuket,200017519,49kg ,Women,2024-03-31,HOU Zhihui,9876.0,1393761,CHN,2.0,120,93,True,97,True,99,False,113,True,120,False,120,True,217
+63,Weightlifting,2024,Phuket,200017519,49kg ,Women,2024-03-31,BOMIRIYAGE GOMAS Dinusha Hansani,11415.0,1430865,SRI,20.0,120,72,True,76,True,79,False,85,True,90,False,90,False,161
+64,Weightlifting,2024,Phuket,200017519,49kg ,Women,2024-03-31,SHIN Jaegyeong,10645.0,1440660,KOR,,103,81,False,81,False,82,False,100,True,103,False,103,False,0
+65,Weightlifting,2024,Phuket,200017519,49kg ,Women,2024-03-31,NGUYEN Tham,10060.0,1442148,IRL,19.0,120,70,False,70,True,73,False,91,True,94,False,96,True,166
+66,Weightlifting,2024,Phuket,200017519,49kg ,Women,2024-03-31,RANDAFIARISON Rosina,8860.0,1497649,MAD,16.0,118,75,False,75,True,77,True,95,True,100,False,100,False,172
+67,Weightlifting,2024,Phuket,200017519,49kg ,Women,2024-03-31,KHAMBAO Surodchana,8866.0,1546794,THA,5.0,120,85,True,88,False,88,False,106,True,109,True,111,False,194
+68,Weightlifting,2024,Phuket,200017519,49kg ,Women,2024-03-31,RAMOS Rosegie,7413.0,1583498,PHI,8.0,120,85,True,87,False,87,True,103,False,103,True,105,False,190
+69,Weightlifting,2024,Phuket,200017519,49kg ,Women,2024-03-31,IMPERIO Giulia,8151.0,1645439,ITA,,120,85,False,85,False,85,True,104,False,104,False,104,False,0
+70,Weightlifting,2024,Phuket,200017519,49kg ,Women,2024-03-31,KLARISA Juliana,7917.0,1645525,INA,,120,77,True,80,True,82,False,102,False,102,False,102,False,0
+71,Weightlifting,2024,Phuket,200017519,49kg ,Women,2024-03-31,ALICI Duygu,8478.0,1709747,TUR,22.0,120,70,False,70,False,70,True,85,True,90,True,0,False,160
+72,Weightlifting,2024,Phuket,200017519,49kg ,Women,2024-03-31,SUZUKI Rira,9339.0,1715927,JPN,4.0,120,83,True,85,True,87,False,107,True,110,True,112,True,197
+73,Weightlifting,2024,Phuket,200017519,49kg ,Women,2024-03-31,PHAM Dinh Thi,8214.0,1791703,VIE,13.0,120,77,False,77,True,80,True,97,True,100,True,102,False,180
+74,Weightlifting,2024,Phuket,200017519,49kg ,Women,2024-03-31,ECHANDIA ZARATE Katherin Oriana,8266.0,1813785,VEN,6.0,120,81,True,83,True,85,True,102,True,106,True,108,True,193
+75,Weightlifting,2024,Phuket,200017519,49kg ,Women,2024-03-31,ORTIZ Dahiana,8161.0,1813830,DOM,10.0,120,81,True,83,False,83,False,105,True,111,False,111,False,186
+76,Weightlifting,2024,Phuket,200017519,49kg ,Women,2024-03-31,FAJRESLAM Maha,7577.0,1920717,MAR,23.0,120,65,False,65,False,65,True,80,True,85,False,86,False,145
+77,Weightlifting,2024,Phuket,200017519,49kg ,Women,2024-03-31,AISAH Windy Cantika,7965.0,1968707,INA,11.0,120,80,False,80,True,84,True,100,False,100,True,105,False,184
+78,Weightlifting,2024,Phuket,200017519,49kg ,Women,2024-03-31,LIN Cheng Jing,8838.0,2017212,TPE,,120,82,False,82,False,82,False,0,False,0,False,0,False,0
+79,Weightlifting,2024,Phuket,200017519,49kg ,Women,2024-03-31,PANFILOVA Jamila,7720.0,2092635,UZB,18.0,120,77,True,80,False,80,False,93,True,95,False,95,False,170
+80,Weightlifting,2024,Phuket,200017519,49kg ,Women,2024-03-31,INAN Lovely,7140.0,2246853,PHI,,120,79,False,79,True,82,False,101,False,101,False,0,False,0
+81,Weightlifting,2024,Phuket,200017519,49kg ,Women,2024-03-31,KEAN Brenna Mae,10622.0,2327635,AUS,,120,72,False,74,False,74,False,0,False,0,False,0,False,0
+82,Weightlifting,2024,Phuket,200017519,49kg ,Women,2024-03-31,ABDYKALYKOVA Ainur,8871.0,2408817,KAZ,21.0,120,65,True,69,True,72,True,81,True,85,True,88,True,160
+83,Weightlifting,2024,Phuket,200017522,55kg ,Women,2024-04-01,KANG Hyon Gyong,9177.0,1163169,PRK,1.0,120,96,True,101,True,103,True,120,True,131,True,0,False,234
+84,Weightlifting,2024,Phuket,200017522,55kg ,Women,2024-04-01,DELACRUZ Jourdan Elizabeth,9449.0,1378088,USA,,120,0,False,0,False,0,False,0,False,0,False,0,False,0
+85,Weightlifting,2024,Phuket,200017522,55kg ,Women,2024-04-01,SOROKHAIBAM Bindyarani Devi,9197.0,1546651,IND,3.0,120,83,False,83,True,86,False,110,True,113,True,119,False,196
+86,Weightlifting,2024,Phuket,200017522,55kg ,Women,2024-04-01,CAMBEI Mihaela-Valentina,7806.0,1645541,ROU,2.0,120,88,True,91,True,93,False,103,True,108,True,110,True,201
+87,Weightlifting,2024,Phuket,200017522,55kg ,Women,2024-04-01,ABDULLAEVA Nigora,7264.0,1791709,UZB,5.0,120,83,True,86,False,86,False,102,True,105,True,109,False,188
+88,Weightlifting,2024,Phuket,200017522,55kg ,Women,2024-04-01,YODSARN Poisian,8106.0,2295275,THA,7.0,120,81,True,84,True,87,False,100,False,100,False,100,True,184
+89,Weightlifting,2024,Phuket,200017522,55kg ,Women,2024-04-01,WINI Jenly Tegu,14819.0,2305645,SOL,9.0,120,74,True,78,True,80,True,95,True,100,False,102,False,175
+90,Weightlifting,2024,Phuket,200017522,55kg ,Women,2024-04-01,GALLANT Josee,11593.0,2323545,CAN,4.0,120,85,False,85,True,90,False,105,True,109,False,109,True,194
+91,Weightlifting,2024,Phuket,200017522,55kg ,Women,2024-04-01,SIDEK Liyana Safiah,10663.0,2356976,BRU,12.0,120,57,True,59,False,60,False,70,False,70,True,73,True,130
+92,Weightlifting,2024,Phuket,200017522,55kg ,Women,2024-04-01,CHUA Jiin Linn,9226.0,2408839,SGP,11.0,120,63,True,66,True,69,False,85,True,89,True,91,False,155
+93,Weightlifting,2024,Phuket,200017522,55kg ,Women,2024-04-01,RODRIGUEZ Isabella Mia,7387.0,2481725,USA,8.0,120,72,True,75,True,78,True,98,True,102,True,105,False,180
+94,Weightlifting,2024,Phuket,200017522,55kg ,Women,2024-04-01,HU Chia Chi,7858.0,2521186,TPE,6.0,120,80,False,80,True,84,False,106,True,109,False,110,False,186
+95,Weightlifting,2024,Phuket,200017522,55kg ,Women,2024-04-01,HAENGNAMCHOT Panadda,7334.0,2521187,THA,9.0,120,72,True,75,True,78,False,94,True,97,True,100,True,175
+96,Weightlifting,2024,Phuket,200016429,64kg ,Women,2024-04-05,RIM Un Sim,10136.0,1163345,PRK,1.0,120,111,False,111,True,114,True,140,True,144,True,147,False,258
+97,Weightlifting,2024,Phuket,200016429,64kg ,Women,2024-04-05,LANGAT Winny Chepngeno,13178.0,1454402,KEN,10.0,120,65,True,68,False,68,False,85,False,86,True,88,False,151
+98,Weightlifting,2024,Phuket,200016429,64kg ,Women,2024-04-05,SAMULIAK Svitlana,7566.0,1645576,UKR,3.0,120,98,True,101,False,101,True,116,True,120,True,122,False,221
+99,Weightlifting,2024,Phuket,200016429,64kg ,Women,2024-04-05,RI Suk,7692.0,1792066,PRK,2.0,120,108,True,113,False,113,False,140,True,147,False,147,False,248
+100,Weightlifting,2024,Phuket,200016429,64kg ,Women,2024-04-05,BARRY Gillian,8867.0,2036439,IRL,7.0,120,78,False,78,False,78,True,92,True,96,True,100,True,178
+101,Weightlifting,2024,Phuket,200016429,64kg ,Women,2024-04-05,MCINTYRE Emma,11935.0,2092602,NZL,6.0,120,83,False,83,True,87,True,103,True,107,True,110,True,197
+102,Weightlifting,2024,Phuket,200016429,64kg ,Women,2024-04-05,THORNTON Tenishia,6791.0,2092659,MLT,5.0,120,84,True,87,True,90,True,105,True,109,True,111,True,201
+103,Weightlifting,2024,Phuket,200016429,64kg ,Women,2024-04-05,NICOLE HENG Lin Li,10672.0,2328107,SGP,8.0,120,70,True,75,False,76,True,90,True,94,True,96,False,170
+104,Weightlifting,2024,Phuket,200016429,64kg ,Women,2024-04-05,NAKIDDE Lydia,9122.0,2372283,UGA,9.0,120,65,True,70,True,72,True,85,True,90,True,92,True,164
+105,Weightlifting,2024,Phuket,200016429,64kg ,Women,2024-04-05,DAVYDOVA Hanna,9416.0,2405389,UKR,4.0,120,94,False,94,True,100,False,112,True,117,True,121,False,211
+106,Weightlifting,2024,Phuket,200016429,64kg ,Women,2024-04-05,BURGER Chantelle,15237.0,2410837,RSA,11.0,120,64,True,67,False,67,False,82,True,86,False,87,True,151
+107,Weightlifting,2024,Phuket,200016429,64kg ,Women,2024-04-05,KAMSHAD Alzahraa M N A,11913.0,2463306,KUW,12.0,120,55,True,62,True,66,False,73,True,78,True,82,False,140
+108,Weightlifting,2024,Phuket,200016452,76kg ,Women,2024-04-08,FEGUE Marie Josephe,12004.0,822995,FRA,2.0,120,108,True,112,True,115,True,130,True,135,False,138,False,245
+109,Weightlifting,2024,Phuket,200016452,76kg ,Women,2024-04-08,JONG Chun Hui,9532.0,1163051,PRK,1.0,120,110,False,110,True,114,True,140,True,145,True,148,False,259
+110,Weightlifting,2024,Phuket,200016452,76kg ,Women,2024-04-08,FATTOUH Mahassen Hala,12643.0,1323217,LBN,8.0,120,92,True,96,True,100,False,113,True,119,True,124,False,215
+111,Weightlifting,2024,Phuket,200016452,76kg ,Women,2024-04-08,LIAO Yi-Tzu,9167.0,1583511,TPE,7.0,120,93,True,96,False,97,True,115,True,120,True,124,False,217
+112,Weightlifting,2024,Phuket,200016452,76kg ,Women,2024-04-08,MENDOZA CARABALI Miyareth,10960.0,1726031,COL,3.0,120,103,True,106,True,110,False,130,True,134,True,137,False,240
+113,Weightlifting,2024,Phuket,200016452,76kg ,Women,2024-04-08,OTGONCHIMEG Tugs-Erdene,6942.0,1791704,MGL,9.0,120,93,False,93,True,98,False,110,True,115,False,115,False,203
+114,Weightlifting,2024,Phuket,200016452,76kg ,Women,2024-04-08,BEDWARD Shania Sophia,10096.0,2258593,CAN,4.0,120,101,False,102,False,102,True,127,True,132,True,135,False,234
+115,Weightlifting,2024,Phuket,200016452,76kg ,Women,2024-04-08,GAVRAN Ivona,9137.0,2358598,CRO,10.0,120,80,False,80,False,80,True,100,False,100,False,100,True,180
+116,Weightlifting,2024,Phuket,200016452,76kg ,Women,2024-04-08,WONGSING Phattharathida,6333.0,2401560,THA,5.0,120,93,True,97,True,100,True,120,True,125,True,131,False,225
+117,Weightlifting,2024,Phuket,200016452,76kg ,Women,2024-04-08,ROHR Estelle Sylvia,10510.0,2521188,USA,6.0,120,95,True,98,False,101,False,124,True,128,True,131,False,223
+118,Weightlifting,2024,Phuket,200017531,87kg ,Women,2024-04-09,MITYKO Veronika,8658.0,1415705,HUN,5.0,117,100,True,103,True,105,False,114,True,118,True,121,False,221
+119,Weightlifting,2024,Phuket,200017531,87kg ,Women,2024-04-09,SENICOVA Nikola,8718.0,1415724,SVK,,117,0,False,0,False,0,False,0,False,0,False,0,False,0
+120,Weightlifting,2024,Phuket,200017531,87kg ,Women,2024-04-09,SUVONOVA Nigora,6761.0,1958313,UZB,6.0,120,95,True,99,False,99,False,122,True,125,True,127,False,220
+121,Weightlifting,2024,Phuket,200017531,87kg ,Women,2024-04-09,MANIEVSKA Anastasiia,9344.0,2036409,UKR,3.0,120,103,True,105,True,107,False,124,True,126,True,129,True,234
+122,Weightlifting,2024,Phuket,200017531,87kg ,Women,2024-04-09,KOANDA Solfrid Eila Amena,9279.0,2189436,NOR,1.0,120,116,True,121,False,123,True,152,True,158,False,158,False,275
+123,Weightlifting,2024,Phuket,200017531,87kg ,Women,2024-04-09,PETERSON Eliise,11690.0,2300183,EST,4.0,120,96,True,101,True,104,True,116,True,121,True,123,False,225
+124,Weightlifting,2024,Phuket,200017531,87kg ,Women,2024-04-09,ALBULOUSHI Fatemah M A M J,10489.0,2408827,KUW,7.0,104,63,True,68,True,71,True,85,True,90,True,95,False,161
+125,Weightlifting,2024,Phuket,200017531,87kg ,Women,2024-04-09,KIM Yong Ju,,2521189,PRK,2.0,120,108,False,108,True,113,True,135,True,145,True,148,False,258
+126,Weightlifting,2024,Phuket,200017528,81kg ,Women,2024-04-09,DAJOMES BARRERA Neisi Patricia,9464.0,941130,ECU,1.0,120,118,True,121,True,123,True,143,True,146,True,0,False,269
+127,Weightlifting,2024,Phuket,200017528,81kg ,Women,2024-04-09,VALDES PARIS Maria Fernanda,11711.0,725033,CHI,21.0,74,98,True,100,False,100,False,123,False,123,True,0,False,221
+128,Weightlifting,2024,Phuket,200017528,81kg ,Women,2024-04-09,CHIRINOS LEON Dayana Aracelis,11876.0,795567,VEN,13.0,120,105,False,105,False,105,True,135,True,138,False,139,False,240
+129,Weightlifting,2024,Phuket,200017528,81kg ,Women,2024-04-09,FUENTES ZAVALA Aremi,11279.0,858496,MEX,,120,105,False,105,False,105,False,0,False,0,False,0,False,0
+130,Weightlifting,2024,Phuket,200017528,81kg ,Women,2024-04-09,MUNKHJANTSAN Ankhtsetseg,9602.0,858593,MGL,,120,105,True,0,False,0,False,0,False,0,False,0,False,0
+131,Weightlifting,2024,Phuket,200017528,81kg ,Women,2024-04-09,LO Ying-Yuan,10199.0,941146,TPE,18.0,120,100,False,100,True,105,False,125,True,129,True,132,False,229
+132,Weightlifting,2024,Phuket,200017528,81kg ,Women,2024-04-09,SALAZAR ARCE Tamara Yajaira,9740.0,1144466,ECU,,120,0,False,0,False,0,False,0,False,0,False,0,False,0
+133,Weightlifting,2024,Phuket,200017528,81kg ,Women,2024-04-09,KIM Suhyeon,10539.0,1144596,KOR,5.0,98,108,True,112,False,112,True,140,False,144,False,144,True,256
+134,Weightlifting,2024,Phuket,200017528,81kg ,Women,2024-04-09,AHMED Sara Samir Elsayed Mohamed,9595.0,1236711,EGY,,120,0,False,0,False,0,False,0,False,0,False,0,False,0
+135,Weightlifting,2024,Phuket,200017528,81kg ,Women,2024-04-09,WANG Zhouyu,10924.0,1236971,CHN,2.0,120,120,True,125,False,125,False,147,True,150,False,150,False,267
+136,Weightlifting,2024,Phuket,200017528,81kg ,Women,2024-04-09,LAYLOR Maya Celeste,10507.0,1275607,CAN,16.0,120,102,True,106,False,106,False,132,True,136,False,136,False,234
+137,Weightlifting,2024,Phuket,200017528,81kg ,Women,2024-04-09,ROGERS Martha Ann,10457.0,1275616,USA,,120,0,False,0,False,0,False,0,False,0,False,0,False,0
+138,Weightlifting,2024,Phuket,200017528,81kg ,Women,2024-04-09,CIKAMATANA Eileen Floanna Maria,8970.0,1343887,AUS,3.0,120,110,True,114,False,114,True,145,True,149,True,153,False,263
+139,Weightlifting,2024,Phuket,200017528,81kg ,Women,2024-04-09,BRAZAITE Gintare,11556.0,1349924,LTU,20.0,120,96,False,97,True,102,False,115,True,120,True,125,True,222
+140,Weightlifting,2024,Phuket,200017528,81kg ,Women,2024-04-09,FEKLISTOVA Katrina,9865.0,1353701,GBR,17.0,120,102,False,102,True,107,False,124,True,127,True,130,False,229
+141,Weightlifting,2024,Phuket,200017528,81kg ,Women,2024-04-09,NOLASCO HERNANDEZ Lizbeth Gabriela,9021.0,1378048,MEX,15.0,120,105,False,105,True,108,True,123,True,127,True,130,True,238
+142,Weightlifting,2024,Phuket,200017528,81kg ,Women,2024-04-09,MEDINA ROCA Ayamey Damiana,9544.0,1407464,CUB,,120,0,False,0,False,0,False,0,False,0,False,0,False,0
+143,Weightlifting,2024,Phuket,200017528,81kg ,Women,2024-04-09,NASCIMENTO AMARO Laura,8565.0,1475761,BRA,8.0,120,107,True,110,True,112,True,133,False,137,True,141,True,253
+144,Weightlifting,2024,Phuket,200017528,81kg ,Women,2024-04-09,LIANG Xiaomei,9698.0,1506948,CHN,7.0,120,110,True,113,False,113,True,140,True,148,False,148,False,253
+145,Weightlifting,2024,Phuket,200017528,81kg ,Women,2024-04-09,NARIN Dilara,8059.0,1645384,TUR,,120,98,False,100,False,100,False,125,True,130,False,132,False,0
+146,Weightlifting,2024,Phuket,200017528,81kg ,Women,2024-04-09,VIBERT Katherine Elizabeth,9226.0,1818364,USA,4.0,102,109,True,113,True,116,False,140,True,145,True,151,False,258
+147,Weightlifting,2024,Phuket,200017528,81kg ,Women,2024-04-09,ADASHBAEVA Rigina,8198.0,1920580,UZB,14.0,117,104,True,107,True,109,False,132,True,136,False,138,False,239
+148,Weightlifting,2024,Phuket,200017528,81kg ,Women,2024-04-09,ZIELINSKA STUBINSKA Weronika,9825.0,1920969,POL,10.0,120,107,False,107,True,110,True,131,True,135,False,136,False,241
+149,Weightlifting,2024,Phuket,200017528,81kg ,Women,2024-04-09,SABIHI Rkia,7170.0,1969592,MAR,,120,85,True,90,False,90,False,105,False,108,False,110,False,0
+150,Weightlifting,2024,Phuket,200017528,81kg ,Women,2024-04-09,WHITING Hayley Elizabeth,11404.0,1999258,NZL,22.0,120,93,False,93,False,93,True,109,True,113,False,115,False,202
+151,Weightlifting,2024,Phuket,200017528,81kg ,Women,2024-04-09,LOWIK Nikki Merel Elisabeth,8470.0,2066016,NED,,120,103,False,103,True,107,False,0,False,0,False,0,False,0
+152,Weightlifting,2024,Phuket,200017528,81kg ,Women,2024-04-09,MEJIA PEGUERO Yudelina,9806.0,2192670,DOM,9.0,120,107,True,111,False,111,True,133,True,138,False,142,False,244
+153,Weightlifting,2024,Phuket,200017528,81kg ,Women,2024-04-09,JAMALI GALEH Yekta,7054.0,2198815,WRT,19.0,120,95,False,95,True,100,True,117,True,121,True,125,True,225
+154,Weightlifting,2024,Phuket,200017528,81kg ,Women,2024-04-09,DUMAS Rosalie,11783.0,2258595,CAN,,120,102,True,106,True,108,False,125,False,125,False,125,False,0
+155,Weightlifting,2024,Phuket,200017528,81kg ,Women,2024-04-09,KIM Iseul,8810.0,2265830,KOR,6.0,120,110,True,115,True,118,False,140,True,143,False,143,False,255
+156,Weightlifting,2024,Phuket,200017528,81kg ,Women,2024-04-09,RUSTAMOVA Anamjan,6546.0,2295219,TKM,11.0,120,105,True,108,True,110,True,130,True,134,False,135,False,240
+157,Weightlifting,2024,Phuket,200017528,81kg ,Women,2024-04-09,PRITCHARD LOLO Ajah,7913.0,2329547,VAN,,120,90,False,90,False,90,False,100,True,105,True,110,True,0
+158,Weightlifting,2024,Phuket,200017528,81kg ,Women,2024-04-09,ERIGHINA Elena,10172.0,2405381,MDA,12.0,120,103,True,106,True,108,True,125,True,132,True,136,False,240
+159,Weightlifting,2024,Phuket,200017528,81kg ,Women,2024-04-09,NAGASHIMA Wakana,6632.0,2408848,JPN,,120,105,False,105,False,105,False,0,False,0,False,0,False,0
+160,Weightlifting,2024,Phuket,200016416,59kg ,Women,2024-04-02,LUO Shifang,8459.0,1715918,CHN,1.0,120,103,True,108,False,108,True,133,True,140,False,140,True,248
+161,Weightlifting,2024,Phuket,200016416,59kg ,Women,2024-04-02,KIM Il Gyong,7556.0,1645446,PRK,2.0,120,102,True,106,True,108,True,125,True,132,False,132,True,240
+162,Weightlifting,2024,Phuket,200016416,59kg ,Women,2024-04-02,CHARRON Maude G,11298.0,1583448,CAN,3.0,120,100,True,103,True,106,True,125,True,129,False,130,True,236
+163,Weightlifting,2024,Phuket,200016416,59kg ,Women,2024-04-02,PEI Xinyi,6759.0,2372295,CHN,4.0,120,103,True,107,False,107,False,130,True,134,False,134,False,233
+164,Weightlifting,2024,Phuket,200016416,59kg ,Women,2024-04-02,KUO Hsing-Chun,11086.0,858556,TPE,5.0,120,98,True,100,True,102,False,125,True,130,True,0,False,230
+165,Weightlifting,2024,Phuket,200016416,59kg ,Women,2024-04-02,VENEGAS VALERA Anyelin Maria,9199.0,1818344,VEN,6.0,120,98,True,101,True,103,True,120,True,124,True,126,True,229
+166,Weightlifting,2024,Phuket,200016416,59kg ,Women,2024-04-02,ANDO Elreen Ann,9579.0,1583380,PHI,7.0,120,98,True,100,True,102,False,125,False,125,True,128,True,228
+167,Weightlifting,2024,Phuket,200016416,59kg ,Women,2024-04-02,LAWAL Rafiatu Folashade,9975.0,2020828,NGR,8.0,116,96,True,101,False,101,True,121,True,126,True,128,False,227
+168,Weightlifting,2024,Phuket,200016416,59kg ,Women,2024-04-02,ALVAREZ CAICEDO Yenny Fernanda,10542.0,1093404,COL,9.0,79,98,False,98,True,100,True,125,True,130,False,130,False,225
+169,Weightlifting,2024,Phuket,200016416,59kg ,Women,2024-04-02,TCHAKOUNTE Dora Meiriama,10604.0,858581,FRA,10.0,120,95,True,98,True,101,True,115,True,120,True,123,True,224
+170,Weightlifting,2024,Phuket,200016416,59kg ,Women,2024-04-02,DIAZ Hidilyn,12096.0,616554,PHI,11.0,120,95,True,99,True,101,False,123,True,127,False,127,False,222
+171,Weightlifting,2024,Phuket,200016416,59kg ,Women,2024-04-02,SASSER Mathlynn Langtor,9961.0,1060496,MHL,12.0,120,94,True,97,True,99,True,113,True,117,True,120,False,216
+172,Weightlifting,2024,Phuket,200016416,59kg ,Women,2024-04-02,STERCKX Nina,7922.0,1718505,BEL,13.0,120,96,True,100,True,102,False,111,True,116,True,121,False,216
+173,Weightlifting,2024,Phuket,200016416,59kg ,Women,2024-04-02,MAGISTRIS Lucrezia,9114.0,1163191,ITA,14.0,120,99,True,102,False,103,False,115,False,115,False,115,True,214
+174,Weightlifting,2024,Phuket,200016416,59kg ,Women,2024-04-02,BETEYOB Natasya,8577.0,2311281,INA,15.0,120,94,True,98,True,100,False,115,True,124,False,124,False,213
+175,Weightlifting,2024,Phuket,200016416,59kg ,Women,2024-04-02,ANDOH Mikiko,11508.0,859907,JPN,16.0,116,92,True,94,False,94,False,121,True,126,False,126,False,213
+176,Weightlifting,2024,Phuket,200016416,59kg ,Women,2024-04-02,QUANG Thi Tam,7680.0,2356980,VIE,17.0,120,96,False,96,True,99,False,116,True,122,False,122,False,212
+177,Weightlifting,2024,Phuket,200016416,59kg ,Women,2024-04-02,SARAH,6678.0,2265780,INA,18.0,120,93,True,96,True,100,False,113,True,117,False,117,False,209
+178,Weightlifting,2024,Phuket,200016416,59kg ,Women,2024-04-02,ELLIOTT Kiana Rose,9747.0,1275581,AUS,19.0,120,95,True,98,False,99,False,112,True,114,True,118,False,209
+179,Weightlifting,2024,Phuket,200016416,59kg ,Women,2024-04-02,COTRUTA Andreea,7449.0,1954132,ROU,20.0,120,90,True,93,False,94,True,113,True,118,False,118,False,207
+180,Weightlifting,2024,Phuket,200016416,59kg ,Women,2024-04-02,HAN Jian,10496.0,2267571,KOR,21.0,120,93,False,95,True,99,False,107,True,112,True,115,False,207
+181,Weightlifting,2024,Phuket,200016416,59kg ,Women,2024-04-02,MOORE Shayla Mariah,10389.0,2323561,USA,22.0,120,82,True,85,True,88,True,110,False,110,True,115,True,203
+182,Weightlifting,2024,Phuket,200016416,59kg ,Women,2024-04-02,CHIU Yu Ling,7240.0,2481721,TPE,23.0,120,82,True,84,True,86,True,110,False,111,True,115,True,201
+183,Weightlifting,2024,Phuket,200016416,59kg ,Women,2024-04-02,SMITH Zoe,10935.0,858775,GBR,24.0,120,85,False,85,True,88,False,109,True,113,True,116,False,198
+184,Weightlifting,2024,Phuket,200016416,59kg ,Women,2024-04-02,GEORGOPOULOU Sofia,8594.0,2243692,GRE,25.0,120,85,True,90,False,90,True,105,True,110,False,110,False,195
+185,Weightlifting,2024,Phuket,200016416,59kg ,Women,2024-04-02,KARDARA Maria,8255.0,1709785,GRE,26.0,120,84,True,87,True,90,False,103,True,105,True,107,False,192
+186,Weightlifting,2024,Phuket,200016416,59kg ,Women,2024-04-02,SHEPARD Kayla,9382.0,2323546,CAN,27.0,120,79,True,83,False,83,True,104,True,108,True,110,False,191
+187,Weightlifting,2024,Phuket,200016416,59kg ,Women,2024-04-02,ENKHBAATAR Enkhtamir,8855.0,1645431,MGL,28.0,120,83,False,83,True,86,False,100,True,104,True,107,False,187
+188,Weightlifting,2024,Phuket,200016416,59kg ,Women,2024-04-02,CRYMBLE Hannah,10385.0,2300187,IRL,29.0,120,82,True,85,False,85,True,100,True,103,False,104,False,185
+189,Weightlifting,2024,Phuket,200016416,59kg ,Women,2024-04-02,CASADEVALL Maria Luz,8418.0,1583444,ARG,30.0,120,80,True,87,False,95,False,101,True,105,True,120,False,185
+190,Weightlifting,2024,Phuket,200016416,59kg ,Women,2024-04-02,MEISTER Scheila,13486.0,2017224,SUI,31.0,120,78,True,80,True,82,True,100,False,100,True,104,False,182
+191,Weightlifting,2024,Phuket,200016416,59kg ,Women,2024-04-02,BALABAYUK Darya,6286.0,2303130,KAZ,32.0,120,78,True,81,False,82,True,95,True,99,True,101,False,181
+192,Weightlifting,2024,Phuket,200016416,59kg ,Women,2024-04-02,LIFU Mary Kini,10763.0,1405739,SOL,33.0,120,67,True,70,True,72,False,85,True,90,True,93,False,160
+193,Weightlifting,2024,Phuket,200016416,59kg ,Women,2024-04-02,GUILLEN VAZQUEZ Daphne,8049.0,1958320,MEX,,94,90,False,90,True,95,False,117,False,117,False,117,False,0
+194,Weightlifting,2024,Phuket,200016416,59kg ,Women,2024-04-02,SHERMETOVA Kristina,11271.0,858689,TKM,,120,91,False,91,True,94,False,111,False,111,False,115,False,0
+195,Weightlifting,2024,Phuket,200016416,59kg ,Women,2024-04-02,RODRIGUEZ GOMEZ Genesis Lourdes,10853.0,858375,VEN,,88,99,True,102,True,104,False,122,False,122,False,126,False,0
+196,Weightlifting,2024,Phuket,200016416,59kg ,Women,2024-04-02,RETULAINEN Saara Sylvia Amanda,11266.0,1350217,FIN,,120,94,True,97,False,97,False,124,False,124,False,124,False,0
+197,Weightlifting,2024,Phuket,200016416,59kg ,Women,2024-04-02,YODSARN Suratwadee,7568.0,2295286,THA,,120,92,True,95,True,97,False,123,False,123,False,127,False,0
+198,Weightlifting,2024,Phuket,200016416,59kg ,Women,2024-04-02,KONOTOP Kamila,8412.0,1415748,UKR,,120,0,False,0,False,0,False,0,False,0,False,0,False,0
+199,Weightlifting,2024,Phuket,200016416,59kg ,Women,2024-04-02,WILKINS Taylor Nicole,9809.0,1674835,USA,,120,97,False,98,False,98,False,0,False,0,False,0,False,0
+200,Weightlifting,2024,Phuket,200016416,59kg ,Women,2024-04-02,ANDERSSON Ine Drablos,12648.0,1441090,NOR,,120,90,False,91,False,91,False,113,False,113,True,119,False,0
+201,Weightlifting,2024,Phuket,200016416,59kg ,Women,2024-04-02,GOMEZ VALDIVIA Janeth,9656.0,1163176,MEX,,91,97,False,97,False,100,False,0,False,0,False,0,False,0
+202,Weightlifting,2024,Phuket,200016416,59kg ,Women,2024-04-02,RIGAUD Garance,8909.0,1344045,FRA,,120,94,False,94,False,95,False,0,False,0,False,0,False,0
+203,Weightlifting,2024,Phuket,200016416,59kg ,Women,2024-04-02,SPIES Anneke,11237.0,2199222,RSA,,120,80,False,80,False,80,False,96,True,99,True,102,False,0
+204,Weightlifting,2024,Phuket,200017525,71kg ,Women,2024-04-06,REEVES Olivia Lynn,7659.0,1958314,USA,1.0,120,112,True,115,True,118,True,142,True,147,True,150,True,268
+205,Weightlifting,2024,Phuket,200017525,71kg ,Women,2024-04-06,TOMA Loredana-Elena,10560.0,858699,ROU,12.0,120,105,True,110,False,110,False,125,True,130,True,134,False,235
+206,Weightlifting,2024,Phuket,200017525,71kg ,Women,2024-04-06,SCHWEIZER Lisa Marie,10491.0,1144667,GER,19.0,120,103,True,107,False,107,True,122,True,128,False,132,False,229
+207,Weightlifting,2024,Phuket,200017525,71kg ,Women,2024-04-06,DAVIES Sarah,11554.0,1246050,GBR,18.0,120,100,True,103,False,104,False,130,True,134,False,139,False,230
+208,Weightlifting,2024,Phuket,200017525,71kg ,Women,2024-04-06,SANCHEZ PERINAN Mari Leivis,11870.0,1271158,COL,7.0,100,104,False,104,True,110,True,130,True,135,False,135,False,240
+209,Weightlifting,2024,Phuket,200017525,71kg ,Women,2024-04-06,GANZORIG Anuujin,9286.0,1273564,MGL,27.0,120,93,False,95,True,100,False,115,True,120,False,125,False,210
+210,Weightlifting,2024,Phuket,200017525,71kg ,Women,2024-04-06,CHEN Wen-Huei,9905.0,1275613,TPE,4.0,120,103,False,105,True,108,False,133,False,135,True,141,True,246
+211,Weightlifting,2024,Phuket,200017525,71kg ,Women,2024-04-06,PALACIOS DAJOMES Angie Paola,8608.0,1378061,ECU,6.0,120,113,False,113,True,116,False,132,True,136,False,0,False,245
+212,Weightlifting,2024,Phuket,200017525,71kg ,Women,2024-04-06,UEPA Maximina,7868.0,1405740,NRU,,120,93,False,93,True,95,True,119,False,119,False,119,False,0
+213,Weightlifting,2024,Phuket,200017525,71kg ,Women,2024-04-06,ALMADANI Mai Ahmad Essa Ahmad,8291.0,1414733,UAE,34.0,87,70,True,73,False,73,True,85,True,88,False,88,False,158
+214,Weightlifting,2024,Phuket,200017525,71kg ,Women,2024-04-06,VALODZKA Siuzanna,8634.0,1415714,RUS,10.0,100,103,True,106,True,108,True,129,True,134,False,136,False,237
+215,Weightlifting,2024,Phuket,200017525,71kg ,Women,2024-04-06,MACROHON Kristel,10285.0,1440836,PHI,14.0,120,103,False,103,False,103,True,130,True,135,False,138,False,233
+216,Weightlifting,2024,Phuket,200017525,71kg ,Women,2024-04-06,LENT Ketty,8473.0,1445718,MRI,28.0,120,90,True,95,True,100,False,115,True,120,False,120,False,210
+217,Weightlifting,2024,Phuket,200017525,71kg ,Women,2024-04-06,GOLD Celia Henna,9553.0,1506910,ISR,21.0,120,98,True,101,False,101,True,125,True,131,False,131,False,226
+218,Weightlifting,2024,Phuket,200017525,71kg ,Women,2024-04-06,GRAILLOT Vicky,8680.0,1534487,FRA,25.0,120,91,False,91,True,95,False,116,True,120,True,124,False,211
+219,Weightlifting,2024,Phuket,200017525,71kg ,Women,2024-04-06,MISERENDINO Giulia,7958.0,1645440,ITA,,120,103,False,103,False,0,False,0,False,0,False,0,False,0
+220,Weightlifting,2024,Phuket,200017525,71kg ,Women,2024-04-06,SARNO Vanessa,7497.0,1645615,PHI,5.0,120,105,True,108,True,110,True,135,False,135,True,138,False,245
+221,Weightlifting,2024,Phuket,200017525,71kg ,Women,2024-04-06,ALWINE Meredith Leigh,9435.0,1666671,USA,15.0,120,99,True,102,False,103,False,130,False,130,True,133,True,232
+222,Weightlifting,2024,Phuket,200017525,71kg ,Women,2024-04-06,LIAO Guifang,8368.0,1715862,CHN,2.0,120,115,True,120,False,120,False,149,False,149,True,154,False,264
+223,Weightlifting,2024,Phuket,200017525,71kg ,Women,2024-04-06,SONG Kuk Hyang,8466.0,1715926,PRK,3.0,120,115,True,120,False,120,False,146,True,154,False,154,False,261
+224,Weightlifting,2024,Phuket,200017525,71kg ,Women,2024-04-06,ENOCK Rachel Achieng,7147.0,1745458,KEN,33.0,99,73,True,76,False,76,True,86,True,88,True,91,False,164
+225,Weightlifting,2024,Phuket,200017525,71kg ,Women,2024-04-06,SAID Neama Said Fahmi,7814.0,1787151,EGY,,120,0,False,0,False,0,False,0,False,0,False,0,False,0
+226,Weightlifting,2024,Phuket,200017525,71kg ,Women,2024-04-06,MUN Minhee,10502.0,1814394,KOR,13.0,87,101,True,104,True,106,True,128,True,134,False,134,False,234
+227,Weightlifting,2024,Phuket,200017525,71kg ,Women,2024-04-06,COCHRANE Sarah Maureen,12615.0,1920648,AUS,30.0,120,93,True,97,False,97,False,115,True,122,False,122,False,208
+228,Weightlifting,2024,Phuket,200017525,71kg ,Women,2024-04-06,JAKAITE Lijana,9380.0,1926584,LTU,29.0,120,94,True,97,False,97,False,114,False,115,True,118,False,209
+229,Weightlifting,2024,Phuket,200017525,71kg ,Women,2024-04-06,MIRABAL FERIA Yeniuska,9857.0,1968744,CUB,9.0,120,103,True,107,True,109,True,129,True,133,False,133,False,238
+230,Weightlifting,2024,Phuket,200017525,71kg ,Women,2024-04-06,SELEMAIA Olivia Shalom,6615.0,2000294,NZL,26.0,120,92,False,92,True,95,True,115,True,119,False,119,False,210
+231,Weightlifting,2024,Phuket,200017525,71kg ,Women,2024-04-06,PHAM Thi Hong Thanh,9012.0,2017226,VIE,16.0,120,103,False,105,True,107,False,126,True,135,False,135,False,231
+232,Weightlifting,2024,Phuket,200017525,71kg ,Women,2024-04-06,EZE Joy Ogbonne,7245.0,2020840,NGR,8.0,120,103,False,103,True,106,False,131,True,136,True,138,False,239
+233,Weightlifting,2024,Phuket,200017525,71kg ,Women,2024-04-06,RAMADANI Tsabitha Alfiah,8506.0,2059446,INA,22.0,118,100,True,103,False,103,False,115,True,118,True,120,True,220
+234,Weightlifting,2024,Phuket,200017525,71kg ,Women,2024-04-06,TABONE Roberta,10733.0,2085962,MLT,31.0,120,85,True,88,False,88,True,105,True,108,False,108,False,193
+235,Weightlifting,2024,Phuket,200017525,71kg ,Women,2024-04-06,SEGAWA Runa,7447.0,2092657,JPN,,120,100,False,100,False,102,False,124,True,127,True,131,False,0
+236,Weightlifting,2024,Phuket,200017525,71kg ,Women,2024-04-06,STURLUDOTTIR Eyglo Fanndal,8322.0,2243636,ISL,11.0,120,103,True,106,True,108,False,130,True,134,False,134,False,236
+237,Weightlifting,2024,Phuket,200017525,71kg ,Women,2024-04-06,YLISOINI Anna Janette Tellervo,6576.0,2243658,FIN,20.0,120,103,False,103,False,105,True,123,True,127,False,127,False,228
+238,Weightlifting,2024,Phuket,200017525,71kg ,Women,2024-04-06,DA COSTA Schott Amanda,10057.0,2258572,BRA,,120,0,False,0,False,0,False,0,False,0,False,0,False,0
+239,Weightlifting,2024,Phuket,200017525,71kg ,Women,2024-04-06,ASHWORTH Alexis,9205.0,2327706,CAN,17.0,120,101,False,101,True,104,False,125,True,129,False,130,True,231
+240,Weightlifting,2024,Phuket,200017525,71kg ,Women,2024-04-06,JEFFERIES Laryne,11870.0,2362415,RSA,32.0,120,86,False,86,False,86,True,103,True,107,False,109,False,189
+241,Weightlifting,2024,Phuket,200017525,71kg ,Women,2024-04-06,NICHELE Jacqueline Mary,8797.0,2373459,AUS,23.0,120,90,True,94,True,97,False,115,True,120,True,122,False,214
+242,Weightlifting,2024,Phuket,200017525,71kg ,Women,2024-04-06,GARCIA HERNANDEZ Diana Laura,9994.0,2417861,MEX,24.0,120,92,True,95,False,95,False,122,True,127,False,127,False,214
+243,Weightlifting,2024,Phuket,200017525,71kg ,Women,2024-04-06,ALAMEER Hanan Y M A H,11118.0,2506607,KUW,36.0,120,60,True,65,False,65,True,70,True,73,True,75,False,138
+244,Weightlifting,2024,Phuket,200017525,71kg ,Women,2024-04-06,ALMOHAMMAD Zainab S F M F,10944.0,2521192,KUW,35.0,118,53,True,58,True,61,True,70,True,78,False,78,True,139
+245,Weightlifting,2024,Phuket,100017477,67kg ,Men,2024-04-04,YASIN Mohammad,8843.0,1645481,INA,4.0,120,130,True,133,True,140,False,160,True,165,False,165,False,293
+246,Weightlifting,2024,Phuket,100017477,67kg ,Men,2024-04-04,MASSIDDA Sergio,8104.0,1645514,ITA,2.0,120,140,True,145,False,145,True,165,True,170,False,172,True,317
+247,Weightlifting,2024,Phuket,100017477,67kg ,Men,2024-04-04,AL BUSAIDI Elyas Tamim,9247.0,1715836,OMA,7.0,120,120,True,126,True,130,False,150,True,157,False,160,False,276
+248,Weightlifting,2024,Phuket,100017477,67kg ,Men,2024-04-04,MURATBEK UULU Ishimbek,8151.0,1790260,KGZ,3.0,120,118,True,122,True,125,False,160,True,166,True,172,True,294
+249,Weightlifting,2024,Phuket,100017477,67kg ,Men,2024-04-04,HU Jyun-Siang,8920.0,2017225,TPE,8.0,120,115,False,115,False,115,True,155,True,163,False,166,False,270
+250,Weightlifting,2024,Phuket,100017477,67kg ,Men,2024-04-04,THONGSUK Patsaphong,6917.0,2246834,THA,6.0,120,115,True,120,True,123,True,145,True,150,True,155,True,278
+251,Weightlifting,2024,Phuket,100017477,67kg ,Men,2024-04-04,DING Hongjie,8100.0,2372266,CHN,,120,125,True,128,True,131,False,165,False,165,False,165,False,0
+252,Weightlifting,2024,Phuket,100017477,67kg ,Men,2024-04-04,RI Won Ju,7870.0,2453089,PRK,1.0,91,135,True,141,True,144,True,174,True,182,True,189,True,333
+253,Weightlifting,2024,Phuket,100017477,67kg ,Men,2024-04-04,ABDULJALIL Munther Ahmed Mohammed Abdulla,9268.0,2506598,UAE,9.0,120,78,False,78,False,78,True,95,True,100,True,102,True,180
+254,Weightlifting,2024,Phuket,100017477,67kg ,Men,2024-04-04,RATPHET Teerawat,8916.0,2506605,THA,5.0,120,125,True,130,True,132,True,155,True,160,True,165,False,292
+255,Weightlifting,2024,Phuket,100017480,73kg ,Men,2024-04-03,SHI Zhiyong,11134.0,1285971,CHN,2.0,120,161,True,164,False,165,True,191,True,195,False,196,False,356
+256,Weightlifting,2024,Phuket,100017480,73kg ,Men,2024-04-03,KINGUE MATAM Bernardin Ledoux,12373.0,607608,FRA,,120,143,True,145,False,145,False,177,False,183,False,183,False,0
+257,Weightlifting,2024,Phuket,100017480,73kg ,Men,2024-04-03,CALJA Briken,12463.0,649429,ALB,10.0,120,145,True,150,True,152,True,181,True,185,False,185,False,333
+258,Weightlifting,2024,Phuket,100017480,73kg ,Men,2024-04-03,BEN HNIA Karem,10735.0,858278,TUN,15.0,120,145,True,147,True,149,False,175,True,0,False,0,False,322
+259,Weightlifting,2024,Phuket,100017480,73kg ,Men,2024-04-03,DISSANAYAKE MUDIYANSELAGE Indika C D,12719.0,883621,SRI,23.0,120,127,True,131,True,133,False,157,True,160,True,162,False,291
+260,Weightlifting,2024,Phuket,100017480,73kg ,Men,2024-04-03,YOKUBOV Doston,10592.0,1093435,UZB,,120,141,False,141,False,144,False,178,True,183,False,183,False,0
+261,Weightlifting,2024,Phuket,100017480,73kg ,Men,2024-04-03,MOSQUERA LOZANO Luis Javier,10601.0,1093557,COL,9.0,120,150,False,150,True,154,False,180,True,185,True,188,False,335
+262,Weightlifting,2024,Phuket,100017480,73kg ,Men,2024-04-03,SUHAREVS Ritvars,9215.0,1093590,LAT,6.0,120,151,True,154,True,157,True,178,True,184,True,187,False,341
+263,Weightlifting,2024,Phuket,100017480,73kg ,Men,2024-04-03,LANG Max Richard,11442.0,1144821,GER,13.0,120,143,True,147,True,149,False,180,True,189,False,189,False,327
+264,Weightlifting,2024,Phuket,100017480,73kg ,Men,2024-04-03,RUSTAMOV Isa,8916.0,1163097,AZE,16.0,120,140,True,145,False,145,True,170,True,175,True,180,False,320
+265,Weightlifting,2024,Phuket,100017480,73kg ,Men,2024-04-03,MAYORA PERNA Julio Ruben,10076.0,1163113,VEN,8.0,120,147,True,151,False,151,True,183,True,185,True,188,True,339
+266,Weightlifting,2024,Phuket,100017480,73kg ,Men,2024-04-03,MIYAMOTO Masanori,9895.0,1163143,JPN,4.0,120,150,True,155,False,158,True,187,True,192,True,0,False,350
+267,Weightlifting,2024,Phuket,100017480,73kg ,Men,2024-04-03,ZANNI Mirko,9667.0,1163154,ITA,,120,150,False,153,False,153,False,0,False,0,False,0,False,0
+268,Weightlifting,2024,Phuket,100017480,73kg ,Men,2024-04-03,KUDLASZYK Piotr Mateusz,9077.0,1163228,POL,,120,137,True,140,False,140,False,176,False,177,False,177,False,0
+269,Weightlifting,2024,Phuket,100017480,73kg ,Men,2024-04-03,CHIANG Tsung-Han,10113.0,1172211,TPE,18.0,120,138,True,142,False,142,True,168,True,173,True,177,True,319
+270,Weightlifting,2024,Phuket,100017480,73kg ,Men,2024-04-03,SANCHEZ LOPEZ David,10851.0,1237612,ESP,,97,0,False,0,False,0,False,0,False,0,False,0,False,0
+271,Weightlifting,2024,Phuket,100017480,73kg ,Men,2024-04-03,VACHON Nicolas,10135.0,1263434,CAN,22.0,120,135,False,135,False,135,True,170,True,177,False,177,False,305
+272,Weightlifting,2024,Phuket,100017480,73kg ,Men,2024-04-03,KONNAI Mitsunori,10248.0,1275591,JPN,,120,145,False,145,False,150,False,0,False,0,False,0,False,0
+273,Weightlifting,2024,Phuket,100017480,73kg ,Men,2024-04-03,CHUANG Sheng-Min,9400.0,1393745,TPE,19.0,120,140,True,144,False,144,False,172,True,177,True,180,False,317
+274,Weightlifting,2024,Phuket,100017480,73kg ,Men,2024-04-03,RAOBU Manuila,8599.0,1405726,TUV,25.0,120,116,True,120,True,126,True,146,True,153,False,153,False,272
+275,Weightlifting,2024,Phuket,100017480,73kg ,Men,2024-04-03,OZBEK Muhammed Furkan,8471.0,1415770,TUR,7.0,91,148,True,150,True,152,True,186,True,189,False,189,True,341
+276,Weightlifting,2024,Phuket,100017480,73kg ,Men,2024-04-03,ANDRIATSITOHAINA Tojonirina Alain,10630.0,1440995,MAD,,120,145,False,146,False,146,False,0,False,0,False,0,False,0
+277,Weightlifting,2024,Phuket,100017480,73kg ,Men,2024-04-03,CARDENAS ESTRADA Jorge Adan,9845.0,1497911,MEX,21.0,85,140,False,140,False,140,True,160,True,165,True,170,True,310
+278,Weightlifting,2024,Phuket,100017480,73kg ,Men,2024-04-03,MURRAY Christopher John,9190.0,1534413,GBR,,89,144,False,146,True,150,False,0,False,0,False,0,False,0
+279,Weightlifting,2024,Phuket,100017480,73kg ,Men,2024-04-03,MUHAMMAD Erry Hidayat,8898.0,1547969,MAS,20.0,120,140,False,140,False,140,True,165,True,170,True,174,False,310
+280,Weightlifting,2024,Phuket,100017480,73kg ,Men,2024-04-03,BAK Joohyo,9776.0,1583401,KOR,5.0,90,147,False,147,True,150,True,192,True,195,True,199,False,345
+281,Weightlifting,2024,Phuket,100017480,73kg ,Men,2024-04-03,LEE Sangyeon,10533.0,1583464,KOR,,116,148,False,148,True,151,False,195,False,198,False,198,False,0
+282,Weightlifting,2024,Phuket,100017480,73kg ,Men,2024-04-03,REYIMOV Bektimur,7792.0,1645355,TKM,11.0,120,150,True,153,False,153,True,180,True,183,False,184,False,333
+283,Weightlifting,2024,Phuket,100017480,73kg ,Men,2024-04-03,RASHIDOV Bunyad,8796.0,1645357,TKM,14.0,120,152,False,155,True,158,False,170,True,181,False,181,False,325
+284,Weightlifting,2024,Phuket,100017480,73kg ,Men,2024-04-03,TOSHTEMIROV Mukhammadkodir,8235.0,1645485,UZB,,120,145,True,149,False,152,False,172,False,172,False,172,False,0
+285,Weightlifting,2024,Phuket,100017480,73kg ,Men,2024-04-03,ABDULLAH Rahmat Erwin,8574.0,1645500,INA,3.0,120,155,True,160,True,162,False,195,True,206,False,206,False,355
+286,Weightlifting,2024,Phuket,100017480,73kg ,Men,2024-04-03,TAIIROV Elzar,7509.0,1790253,KGZ,24.0,116,125,True,130,True,135,False,145,True,152,True,157,False,282
+287,Weightlifting,2024,Phuket,100017480,73kg ,Men,2024-04-03,GRIMSLAND Ryan Henry,8037.0,1813769,USA,,120,145,True,150,False,150,False,185,False,187,False,191,False,0
+288,Weightlifting,2024,Phuket,100017480,73kg ,Men,2024-04-03,JAVADOV Omar,8039.0,1821600,AZE,12.0,120,149,True,153,True,156,False,170,True,175,True,178,False,328
+289,Weightlifting,2024,Phuket,100017480,73kg ,Men,2024-04-03,GENC Yusuf Fehmi,7987.0,1821621,TUR,,117,146,True,149,False,149,False,184,False,185,False,190,False,0
+290,Weightlifting,2024,Phuket,100017480,73kg ,Men,2024-04-03,GUTU Roberto,8652.0,1926575,GER,,120,148,True,152,True,153,True,175,False,183,False,183,False,0
+291,Weightlifting,2024,Phuket,100017480,73kg ,Men,2024-04-03,JUNIANSYAH Rizki,7597.0,2065732,INA,1.0,120,155,True,164,False,164,True,192,True,201,True,203,False,365
+292,Weightlifting,2024,Phuket,100017480,73kg ,Men,2024-04-03,WICHUMA Weeraphon,7118.0,2246842,THA,,120,147,True,150,False,151,False,192,False,193,False,193,False,0
+293,Weightlifting,2024,Phuket,100017480,73kg ,Men,2024-04-03,UMOAFIA Edidiong Joseph,7863.0,2265814,NGR,17.0,120,142,True,147,True,150,False,172,True,177,False,177,False,319
+294,Weightlifting,2024,Phuket,100017480,73kg ,Men,2024-04-03,CAHOY Caden Taiyo,7369.0,2295223,USA,,120,143,True,147,False,147,False,187,False,193,False,193,False,0
+295,Weightlifting,2024,Phuket,100017480,73kg ,Men,2024-04-03,REYES VIDAL Jair Abimelet,8668.0,2488056,ECU,,120,140,False,140,True,145,False,0,False,0,False,0,False,0
+296,Weightlifting,2024,Phuket,100017489,96kg ,Men,2024-04-07,WON Jongbeom,10013.0,1583398,KOR,1.0,84,170,True,179,False,179,False,210,True,219,True,0,False,389
+297,Weightlifting,2024,Phuket,100017489,96kg ,Men,2024-04-07,ABOKAHLA Karim Ibrahim Ibrahim Ali,10009.0,1163118,EGY,2.0,120,165,True,171,False,171,False,205,True,0,False,0,False,370
+298,Weightlifting,2024,Phuket,100017489,96kg ,Men,2024-04-07,KENNEDY Braydon James,10282.0,2265790,CAN,3.0,120,156,True,161,True,165,True,187,True,192,False,193,True,358
+299,Weightlifting,2024,Phuket,100017489,96kg ,Men,2024-04-07,NANAI LIVI Maeu,9200.0,1344201,SAM,4.0,120,155,False,155,True,160,False,186,True,190,False,192,True,347
+300,Weightlifting,2024,Phuket,100017489,96kg ,Men,2024-04-07,TARMALOV Nursultan,7615.0,2453085,KGZ,5.0,120,145,True,151,True,157,False,170,True,182,False,185,False,321
+301,Weightlifting,2024,Phuket,100017489,96kg ,Men,2024-04-07,LOPEZ CARPIZO Jose Luis,9780.0,1163110,MEX,6.0,92,130,True,135,True,140,True,160,True,171,True,180,False,311
+302,Weightlifting,2024,Phuket,100017489,96kg ,Men,2024-04-07,DALEY James Francis,12970.0,2192647,JAM,8.0,120,110,True,113,True,116,False,135,True,138,True,141,False,251
+303,Weightlifting,2024,Phuket,100017489,96kg ,Men,2024-04-07,HAMADA Mohammed K H,8060.0,2085935,PLE,9.0,120,100,True,0,False,0,False,120,True,0,False,0,False,220
+304,Weightlifting,2024,Phuket,100017489,96kg ,Men,2024-04-07,IMADOUCHENE Romain Jordan Sebastien,10442.0,1344154,FRA,,120,0,False,0,False,0,False,0,False,0,False,0,False,0
+305,Weightlifting,2024,Phuket,100017489,96kg ,Men,2024-04-07,MASHEGO Vuyani,11733.0,2085938,RSA,7.0,120,122,True,127,False,127,True,157,True,162,False,162,False,284
+306,Weightlifting,2024,Phuket,100017486,89kg ,Men,2024-04-05,MENDEZ PEREZ Arley,11054.0,857638,CHI,,120,163,False,163,False,163,False,0,False,0,False,0,False,0
+307,Weightlifting,2024,Phuket,100017486,89kg ,Men,2024-04-05,ASAYONAK Petr,11361.0,858595,RUS,,100,163,False,163,False,163,False,0,False,0,False,0,False,0
+308,Weightlifting,2024,Phuket,100017486,89kg ,Men,2024-04-05,MUELLER Nico,11113.0,858661,GER,,111,160,False,160,False,163,False,0,False,0,False,0,False,0
+309,Weightlifting,2024,Phuket,100017486,89kg ,Men,2024-04-05,PENT Leho,12423.0,863773,EST,,120,150,True,155,False,156,False,185,False,187,False,187,False,0
+310,Weightlifting,2024,Phuket,100017486,89kg ,Men,2024-04-05,KARAPETYAN Andranik,10340.0,940752,ARM,,120,170,False,171,False,175,False,0,False,0,False,0,False,0
+311,Weightlifting,2024,Phuket,100017486,89kg ,Men,2024-04-05,TIAN Tao,10956.0,1043671,CHN,,120,171,True,176,False,177,False,215,False,226,False,226,False,0
+312,Weightlifting,2024,Phuket,100017486,89kg ,Men,2024-04-05,PIZZOLATO Antonino,10091.0,1093396,ITA,4.0,120,170,True,175,False,176,False,210,False,210,True,215,False,380
+313,Weightlifting,2024,Phuket,100017486,89kg ,Men,2024-04-05,DAMRON Nathan Charles,10197.0,1093516,USA,,120,165,False,166,False,167,False,196,True,205,False,206,False,0
+314,Weightlifting,2024,Phuket,100017486,89kg ,Men,2024-04-05,CUMMINGS JR Clarence,8705.0,1163018,USA,,120,143,True,148,False,0,False,0,False,0,False,0,False,0
+315,Weightlifting,2024,Phuket,100017486,89kg ,Men,2024-04-05,IAKOVIDIS Theodoros,12107.0,1163386,GRE,15.0,120,153,True,158,False,160,False,183,True,187,False,190,False,336
+316,Weightlifting,2024,Phuket,100017486,89kg ,Men,2024-04-05,YU Dongju,11188.0,1182793,KOR,5.0,115,163,True,166,True,168,False,200,True,209,False,209,True,375
+317,Weightlifting,2024,Phuket,100017486,89kg ,Men,2024-04-05,SANTAVY Boady Robert,9816.0,1273552,CAN,,120,167,False,168,False,169,False,0,False,0,False,0,False,0
+318,Weightlifting,2024,Phuket,100017486,89kg ,Men,2024-04-05,BROWN Sean Kevin,11996.0,1350214,IRL,18.0,120,142,False,142,True,147,True,171,True,176,False,178,False,318
+319,Weightlifting,2024,Phuket,100017486,89kg ,Men,2024-04-05,LOPEZ LOPEZ Yeison,9219.0,1378064,COL,2.0,116,175,True,181,False,182,True,205,True,210,True,215,False,392
+320,Weightlifting,2024,Phuket,100017486,89kg ,Men,2024-04-05,BELLEMARRE Alex,9420.0,1393713,CAN,7.0,120,163,True,167,True,170,False,195,False,195,True,200,False,362
+321,Weightlifting,2024,Phuket,100017486,89kg ,Men,2024-04-05,VALLENILLA SANCHEZ Keydomar Giovanni,8947.0,1414981,VEN,,120,165,True,168,False,169,False,0,False,0,False,0,False,0
+322,Weightlifting,2024,Phuket,100017486,89kg ,Men,2024-04-05,MEZINSKIS Armands,8611.0,1415839,LAT,11.0,114,156,False,156,False,160,True,195,True,200,False,201,False,355
+323,Weightlifting,2024,Phuket,100017486,89kg ,Men,2024-04-05,SAEZ VERA Olfides,10787.0,1497880,CUB,8.0,117,160,True,165,False,165,False,200,True,206,False,210,False,360
+324,Weightlifting,2024,Phuket,100017486,89kg ,Men,2024-04-05,BALUSHI Issa Rajab Mohammed Al Balushi,8319.0,1645417,UAE,19.0,84,125,True,132,False,132,True,155,False,155,True,160,False,287
+325,Weightlifting,2024,Phuket,100017486,89kg ,Men,2024-04-05,HSIEH Meng-En,8346.0,1645477,TPE,10.0,120,155,False,155,False,155,True,192,False,192,True,200,True,355
+326,Weightlifting,2024,Phuket,100017486,89kg ,Men,2024-04-05,SHOHRADOV Shatlyk,8799.0,1645517,TKM,9.0,120,162,True,165,False,165,False,195,True,202,False,202,False,357
+327,Weightlifting,2024,Phuket,100017486,89kg ,Men,2024-04-05,BRUCE Kyle John Ryan Christopher P,9035.0,1664944,AUS,16.0,120,145,True,149,False,149,True,187,False,187,False,187,True,336
+328,Weightlifting,2024,Phuket,100017486,89kg ,Men,2024-04-05,ROBU Marin,8784.0,1709777,MDA,,120,165,True,169,False,169,False,0,False,0,False,0,False,0
+329,Weightlifting,2024,Phuket,100017486,89kg ,Men,2024-04-05,AL-KHANJARI Amur Salim Ramadhan,8573.0,1715820,OMA,,120,0,False,0,False,0,False,0,False,0,False,0,False,0
+330,Weightlifting,2024,Phuket,100017486,89kg ,Men,2024-04-05,MOLDODOSOV Emil,8649.0,1715848,KGZ,12.0,120,153,True,157,False,160,True,182,True,187,True,190,False,347
+331,Weightlifting,2024,Phuket,100017486,89kg ,Men,2024-04-05,TORAYEV Gaygysyz,7666.0,1790255,TKM,,120,153,False,153,False,155,False,0,False,0,False,0,False,0
+332,Weightlifting,2024,Phuket,100017486,89kg ,Men,2024-04-05,ESCUDERO ORDONEZ Ivan Andres,8486.0,1813780,ECU,,100,157,False,157,False,157,False,0,False,0,False,0,False,0
+333,Weightlifting,2024,Phuket,100017486,89kg ,Men,2024-04-05,ATENCIA PRIOU Amel Karim,8083.0,1813867,PER,14.0,120,150,False,150,True,156,False,180,True,187,False,190,True,340
+334,Weightlifting,2024,Phuket,100017486,89kg ,Men,2024-04-05,LI Dayin,9257.0,1814437,CHN,3.0,120,173,True,178,False,178,False,210,False,210,True,216,False,383
+335,Weightlifting,2024,Phuket,100017486,89kg ,Men,2024-04-05,NASAR Karlos May,7238.0,1954070,BUL,1.0,120,170,True,176,True,181,True,215,True,224,False,224,False,396
+336,Weightlifting,2024,Phuket,100017486,89kg ,Men,2024-04-05,ASANIDZE Saba,7670.0,1954085,GEO,13.0,120,146,True,150,True,152,True,183,True,187,True,191,True,343
+337,Weightlifting,2024,Phuket,100017486,89kg ,Men,2024-04-05,JAVADI ALIABADI Mir Mostafa,8689.0,1967367,IRI,,120,160,True,0,False,0,False,206,False,0,False,0,False,0
+338,Weightlifting,2024,Phuket,100017486,89kg ,Men,2024-04-05,SAXTON Oliver Riley,7720.0,1999260,AUS,17.0,120,145,False,145,True,150,True,185,False,185,True,188,False,335
+339,Weightlifting,2024,Phuket,100017486,89kg ,Men,2024-04-05,ZAFARJONOV Sarvarbek,8655.0,2061902,UZB,,120,164,True,168,False,168,False,190,False,0,False,0,False,0
+340,Weightlifting,2024,Phuket,100017486,89kg ,Men,2024-04-05,PETROVICH Sergey,8432.0,2408834,KAZ,6.0,120,163,True,167,True,171,False,190,True,196,False,196,True,363
+341,Weightlifting,2024,Phuket,100017486,89kg ,Men,2024-04-05,OON Yuen Tzern,,2521208,SGP,20.0,120,120,True,125,True,130,True,145,True,152,False,155,False,275
+342,Weightlifting,2024,Phuket,100017492,102kg ,Men,2024-04-08,KASABIJEW Arsen,13294.0,565826,POL,,120,162,False,0,False,0,False,0,False,0,False,0,False,0
+343,Weightlifting,2024,Phuket,100017492,102kg ,Men,2024-04-08,PLESNIEKS Arturs,11766.0,728079,LAT,14.0,120,165,True,173,False,174,False,205,True,215,False,227,False,370
+344,Weightlifting,2024,Phuket,100017492,102kg ,Men,2024-04-08,HOFMANN Matthaeus Klaus Lorant Georg,10877.0,858622,GER,,84,170,False,0,False,0,False,0,False,0,False,0,False,0
+345,Weightlifting,2024,Phuket,100017492,102kg ,Men,2024-04-08,MOCHIDA Ryunosuke,11252.0,1043068,JPN,,120,168,True,173,True,176,False,206,False,218,False,218,False,0
+346,Weightlifting,2024,Phuket,100017492,102kg ,Men,2024-04-08,DEHDAR Reza,10508.0,1093517,IRI,7.0,120,172,True,176,True,179,True,208,True,214,False,214,False,387
+347,Weightlifting,2024,Phuket,100017492,102kg ,Men,2024-04-08,SUMPRADIT Sarat,10949.0,1144754,THA,,120,172,False,172,False,173,False,0,False,0,False,0,False,0
+348,Weightlifting,2024,Phuket,100017492,102kg ,Men,2024-04-08,GASPARYAN Samvel,9632.0,1163252,ARM,,120,172,True,177,False,181,False,0,False,0,False,0,False,0
+349,Weightlifting,2024,Phuket,100017492,102kg ,Men,2024-04-08,VAUTARD Brandon Robert Jean,10073.0,1236510,FRA,20.0,120,150,False,150,True,160,False,206,True,211,False,211,False,356
+350,Weightlifting,2024,Phuket,100017492,102kg ,Men,2024-04-08,CHEN Po-Jen,9464.0,1263849,TPE,,120,176,False,178,False,178,False,0,False,0,False,0,False,0
+351,Weightlifting,2024,Phuket,100017492,102kg ,Men,2024-04-08,PAREDES MONTANO Lesman,10202.0,1275589,BRN,4.0,120,181,True,186,True,0,False,212,True,0,False,0,False,398
+352,Weightlifting,2024,Phuket,100017492,102kg ,Men,2024-04-08,KACINSKAS Irmantas,11733.0,1350205,LTU,24.0,120,145,False,145,True,151,False,175,False,177,True,184,False,322
+353,Weightlifting,2024,Phuket,100017492,102kg ,Men,2024-04-08,RIVAS MOSQUERA Jhonatan,9403.0,1378119,COL,,120,175,True,180,False,180,False,208,False,214,False,214,False,0
+354,Weightlifting,2024,Phuket,100017492,102kg ,Men,2024-04-08,JIN Yunseong,10407.0,1393752,KOR,,92,175,False,178,False,178,False,0,False,0,False,0,False,0
+355,Weightlifting,2024,Phuket,100017492,102kg ,Men,2024-04-08,CHKHEIDZE Irakli,9225.0,1415890,GEO,11.0,120,170,True,174,False,174,False,211,True,222,False,0,False,381
+356,Weightlifting,2024,Phuket,100017492,102kg ,Men,2024-04-08,ABUZRIBA Ahmed Mustafa Ahmed,8758.0,1442942,LBA,16.0,120,158,True,163,True,169,False,192,True,198,True,201,False,361
+357,Weightlifting,2024,Phuket,100017492,102kg ,Men,2024-04-08,OPELOGE Don,9097.0,1465760,SAM,6.0,120,170,False,170,False,170,True,215,False,215,True,221,True,391
+358,Weightlifting,2024,Phuket,100017492,102kg ,Men,2024-04-08,KITTS Wesley Brian,12375.0,1485250,USA,,120,0,False,0,False,0,False,0,False,0,False,0,False,0
+359,Weightlifting,2024,Phuket,100017492,102kg ,Men,2024-04-08,ELBAKH Fares Ibrahim E. H.,9499.0,1495832,QAT,,120,0,False,0,False,0,False,0,False,0,False,0,False,0
+360,Weightlifting,2024,Phuket,100017492,102kg ,Men,2024-04-08,RASULBEKOV Bekdoolot,10070.0,1495833,KGZ,9.0,120,165,True,170,False,172,False,208,True,218,True,220,True,385
+361,Weightlifting,2024,Phuket,100017492,102kg ,Men,2024-04-08,RAINIBOGI Taniela Tuisuva,9486.0,1499842,FIJ,15.0,120,162,True,167,False,170,False,202,True,206,False,206,False,364
+362,Weightlifting,2024,Phuket,100017492,102kg ,Men,2024-04-08,UIKILIFI JR Joshua Makafana,12204.0,1506190,TGA,23.0,120,140,True,145,True,150,False,180,True,185,True,190,False,330
+363,Weightlifting,2024,Phuket,100017492,102kg ,Men,2024-04-08,BACHA Aymen,8931.0,1546629,TUN,,120,176,False,176,False,176,True,206,False,207,False,210,False,0
+364,Weightlifting,2024,Phuket,100017492,102kg ,Men,2024-04-08,JANG Yeonhak,9915.0,1583482,KOR,,92,175,True,180,False,180,False,0,False,0,False,0,False,0
+365,Weightlifting,2024,Phuket,100017492,102kg ,Men,2024-04-08,MUGURDUMOV Artur,13090.0,1644273,ISR,17.0,120,155,True,159,True,163,True,198,True,203,False,205,False,361
+366,Weightlifting,2024,Phuket,100017492,102kg ,Men,2024-04-08,TSIKHANTSOU Yauheni,9287.0,1666683,RUS,3.0,100,175,True,180,False,183,True,210,True,217,True,225,False,400
+367,Weightlifting,2024,Phuket,100017492,102kg ,Men,2024-04-08,BURGER Ruben,12090.0,1713147,RSA,25.0,120,130,True,135,True,140,False,160,True,165,False,168,False,295
+368,Weightlifting,2024,Phuket,100017492,102kg ,Men,2024-04-08,EZZEDDIN Alghafeer,8680.0,1792212,UAE,,117,160,True,164,True,167,False,0,False,0,False,0,False,0
+369,Weightlifting,2024,Phuket,100017492,102kg ,Men,2024-04-08,ZALDIVAR MELIAN Juan Carlos,9178.0,1818354,CUB,19.0,120,158,False,158,True,163,False,200,True,207,False,210,False,358
+370,Weightlifting,2024,Phuket,100017492,102kg ,Men,2024-04-08,GARCES FRANCO Oscar Andres,9330.0,1923035,COL,,120,165,False,165,False,170,False,0,False,0,False,0,False,0
+371,Weightlifting,2024,Phuket,100017492,102kg ,Men,2024-04-08,SHUKURLU Ali,7456.0,1926555,AZE,13.0,112,167,True,172,False,175,False,200,True,205,True,210,True,377
+372,Weightlifting,2024,Phuket,100017492,102kg ,Men,2024-04-08,KARAPETYAN Garik,7607.0,1954089,ARM,2.0,120,180,True,185,False,185,True,212,True,216,True,0,False,401
+373,Weightlifting,2024,Phuket,100017492,102kg ,Men,2024-04-08,SHARANKOU Siarhei,7968.0,2017218,RUS,10.0,100,175,True,180,False,182,False,207,True,212,False,215,False,382
+374,Weightlifting,2024,Phuket,100017492,102kg ,Men,2024-04-08,BRATU Tudor,7864.0,2036419,MDA,12.0,120,170,True,173,True,176,False,205,True,219,False,219,False,378
+375,Weightlifting,2024,Phuket,100017492,102kg ,Men,2024-04-08,ALSALLAJ Asem Mousa Husam,7242.0,2246763,JOR,22.0,120,135,True,141,True,146,True,175,True,182,True,191,True,337
+376,Weightlifting,2024,Phuket,100017492,102kg ,Men,2024-04-08,HASANBAYEV Davranbek,8506.0,2356960,TKM,5.0,120,180,True,185,True,187,True,205,True,207,False,207,False,392
+377,Weightlifting,2024,Phuket,100017492,102kg ,Men,2024-04-08,MATYAKUBOV Shahzadbek,7343.0,2356972,TKM,8.0,120,173,False,173,True,176,True,210,True,217,False,217,False,386
+378,Weightlifting,2024,Phuket,100017492,102kg ,Men,2024-04-08,CHEN Hsiang-Yu,8516.0,2368249,TPE,21.0,120,150,False,150,True,155,True,190,False,191,False,191,True,346
+379,Weightlifting,2024,Phuket,100017492,102kg ,Men,2024-04-08,LIU Huanhua,8267.0,2372267,CHN,1.0,120,175,True,181,True,186,False,220,True,225,True,232,True,413
+380,Weightlifting,2024,Phuket,100017492,102kg ,Men,2024-04-08,SALEM Yasser Usama Hemdan Mohamed,7885.0,2410833,EGY,,120,170,False,170,False,170,False,0,False,0,False,0,False,0
+381,Weightlifting,2024,Phuket,100017492,102kg ,Men,2024-04-08,MORA ROMERO Ramiro,,2521216,WRT,18.0,120,157,True,162,True,165,False,197,True,0,False,0,False,359
+382,Weightlifting,2024,Phuket,200017534,+87kg ,Women,2024-04-10,LI Wenwen,8743.0,1967403,CHN,1.0,120,133,True,140,True,145,True,170,True,180,True,0,False,325
+383,Weightlifting,2024,Phuket,200017534,+87kg ,Women,2024-04-10,PEREZ REVERON Naryury Alexandra,11516.0,863868,VEN,6.0,94,114,True,117,True,119,True,143,True,148,True,151,False,267
+384,Weightlifting,2024,Phuket,200017534,+87kg ,Women,2024-04-10,ABBAS Halima Abdelazim Sedky,10568.0,1042978,EGY,,120,0,False,0,False,0,False,0,False,0,False,0,False,0
+385,Weightlifting,2024,Phuket,200017534,+87kg ,Women,2024-04-10,SIPAIA Iuniarra,11247.0,1193874,SAM,7.0,120,105,True,110,True,112,True,150,True,155,True,160,False,267
+386,Weightlifting,2024,Phuket,200017534,+87kg ,Women,2024-04-10,AYOVI CABEZAS Lisseth Betzaida,9378.0,1236310,ECU,,120,0,False,0,False,0,False,0,False,0,False,0,False,0
+387,Weightlifting,2024,Phuket,200017534,+87kg ,Women,2024-04-10,SANTANA PEGUERO Crismery Dominga,10583.0,1236659,DOM,,120,112,True,116,False,116,True,140,False,140,False,0,False,0
+388,Weightlifting,2024,Phuket,200017534,+87kg ,Women,2024-04-10,SON Younghee,11309.0,1264389,KOR,3.0,92,122,True,127,False,128,False,161,True,171,False,177,False,283
+389,Weightlifting,2024,Phuket,200017534,+87kg ,Women,2024-04-10,CHAIDEE Duangaksorn,9739.0,1303845,THA,4.0,120,115,True,119,True,122,True,150,True,155,True,158,True,280
+390,Weightlifting,2024,Phuket,200017534,+87kg ,Women,2024-04-10,FISCHER Sarah,8553.0,1415711,AUT,10.0,120,100,True,104,True,107,False,132,False,132,True,0,False,236
+391,Weightlifting,2024,Phuket,200017534,+87kg ,Women,2024-04-10,HOTFRID Anastasiia,10212.0,1452309,GEO,,120,0,False,0,False,0,False,0,False,0,False,0,False,0
+392,Weightlifting,2024,Phuket,200017534,+87kg ,Women,2024-04-10,UCELO MARROQUIN Scarleth Vanessa,8769.0,1504045,GUA,13.0,120,75,True,80,False,80,False,100,True,105,True,110,False,180
+393,Weightlifting,2024,Phuket,200017534,+87kg ,Women,2024-04-10,JABBOROVA Tursunoy,8073.0,1645609,UZB,,120,115,True,119,True,121,False,138,False,138,False,142,False,0
+394,Weightlifting,2024,Phuket,200017534,+87kg ,Women,2024-04-10,AKMAL Nurul,11380.0,1674827,INA,,120,107,True,115,False,115,False,145,False,147,False,150,False,0
+395,Weightlifting,2024,Phuket,100017495,109kg ,Men,2024-04-10,DJURAEV Akbar,8951.0,1666644,UZB,1.0,120,180,True,185,True,189,True,220,True,227,True,0,False,416
+396,Weightlifting,2024,Phuket,100017495,109kg ,Men,2024-04-10,VIERA ESPINOZA Hernan Moises,11407.0,857697,PER,5.0,120,145,True,150,True,155,False,205,False,205,True,210,True,360
+397,Weightlifting,2024,Phuket,100017495,109kg ,Men,2024-04-10,DADASHBAYLI Dadash,10131.0,1093412,AZE,2.0,120,171,True,177,True,181,False,205,True,211,True,0,False,388
+398,Weightlifting,2024,Phuket,100017495,109kg ,Men,2024-04-10,LOMTADZE Zaza,8338.0,1645600,GEO,3.0,120,160,True,165,True,170,True,202,False,202,True,209,True,379
+399,Weightlifting,2024,Phuket,100017495,109kg ,Men,2024-04-10,AMRIDDINOV Sharofiddin,7957.0,2092588,UZB,4.0,120,170,True,176,False,176,False,195,True,203,True,208,True,378
+400,Weightlifting,2024,Phuket,100017495,109kg ,Men,2024-04-10,MEIRAM Sultan,7824.0,2295279,KAZ,6.0,120,140,True,150,True,155,False,180,True,190,True,195,False,340
+401,Weightlifting,2024,Phuket,100017495,109kg ,Men,2024-04-10,MA Ching-Chieh,7481.0,2408823,TPE,7.0,120,140,True,150,False,150,True,180,True,190,False,190,False,330
+402,Weightlifting,2024,Phuket,100017495,109kg ,Men,2024-04-10,CHANDLER Liam,7210.0,2430975,RSA,8.0,120,133,True,138,False,140,False,152,False,153,True,157,False,286
+403,Weightlifting,2024,Phuket,100017498,+109kg ,Men,2024-04-11,LALAYAN Varazdat,9112.0,1534476,ARM,1.0,120,205,True,210,True,215,False,243,True,253,True,0,False,463
+404,Weightlifting,2024,Phuket,100017498,+109kg ,Men,2024-04-11,ALNAJJAR M Moayad M,8815.0,2092613,UAE,,120,170,False,171,False,171,False,0,False,0,False,0,False,0
+405,Weightlifting,2024,Phuket,100017498,+109kg ,Men,2024-04-11,MINASYAN Gor Tigran A.,10761.0,858563,BRN,,120,0,False,0,False,0,False,0,False,0,False,0,False,0
+406,Weightlifting,2024,Phuket,100017498,+109kg ,Men,2024-04-11,NAGY Peter,13965.0,649479,HUN,,120,0,False,0,False,0,False,0,False,0,False,0,False,0
+407,Weightlifting,2024,Phuket,100017498,+109kg ,Men,2024-04-11,ELSAYED Abdelrahman Mohamed A. A.,12746.0,684423,EGY,,120,0,False,0,False,0,False,0,False,0,False,0,False,0
+408,Weightlifting,2024,Phuket,100017498,+109kg ,Men,2024-04-11,BIDANI Walid,10749.0,858319,ALG,6.0,120,190,True,197,True,202,False,216,False,220,True,229,True,426
+409,Weightlifting,2024,Phuket,100017498,+109kg ,Men,2024-04-11,LITVINOV David,11158.0,858558,ISR,14.0,120,167,True,172,False,172,False,205,True,210,True,215,False,377
+410,Weightlifting,2024,Phuket,100017498,+109kg ,Men,2024-04-11,ASAAD Man,11100.0,858594,SYR,,109,0,False,0,False,0,False,0,False,0,False,0,False,0
+411,Weightlifting,2024,Phuket,100017498,+109kg ,Men,2024-04-11,TALAKHADZE Lasha,11149.0,858697,GEO,,120,0,False,0,False,0,False,0,False,0,False,0,False,0
+412,Weightlifting,2024,Phuket,100017498,+109kg ,Men,2024-04-11,TOYCHYYEV Hojamuhammet,11774.0,859841,TKM,12.0,105,170,True,174,False,174,False,210,True,213,True,216,False,383
+413,Weightlifting,2024,Phuket,100017498,+109kg ,Men,2024-04-11,SEIM Mart,12223.0,1031410,EST,,120,180,False,180,True,185,False,0,False,0,False,0,False,0
+414,Weightlifting,2024,Phuket,100017498,+109kg ,Men,2024-04-11,LEMUS CALANCHE Gilberto Antonio,11024.0,1042966,GUA,17.0,120,163,False,163,True,168,False,190,True,195,False,196,False,353
+415,Weightlifting,2024,Phuket,100017498,+109kg ,Men,2024-04-11,MARTIROSYAN Simon,9915.0,1093565,ARM,4.0,120,195,True,202,False,202,False,245,True,253,False,253,False,440
+416,Weightlifting,2024,Phuket,100017498,+109kg ,Men,2024-04-11,MURAKAMI Eishiro,10474.0,1145334,JPN,,120,185,True,190,True,192,False,232,False,232,False,237,False,0
+417,Weightlifting,2024,Phuket,100017498,+109kg ,Men,2024-04-11,CHINEN Kosuke,10176.0,1145341,JPN,,120,188,True,191,False,191,False,218,False,234,False,235,False,0
+418,Weightlifting,2024,Phuket,100017498,+109kg ,Men,2024-04-11,KAJDOCI Tamas,9852.0,1163275,SRB,,112,0,False,0,False,0,False,0,False,0,False,0,False,0
+419,Weightlifting,2024,Phuket,100017498,+109kg ,Men,2024-04-11,WILKES Caine Morgan,13425.0,1223508,USA,11.0,120,170,True,175,False,175,False,208,True,214,True,221,False,384
+420,Weightlifting,2024,Phuket,100017498,+109kg ,Men,2024-04-11,MAO Sanele,14094.0,1236316,SAM,,120,180,False,180,True,185,False,225,False,225,False,234,False,0
+421,Weightlifting,2024,Phuket,100017498,+109kg ,Men,2024-04-11,COULLET Anthony Jean Pierre,9953.0,1236638,FRA,,120,159,True,164,True,169,False,210,False,228,False,228,False,0
+422,Weightlifting,2024,Phuket,100017498,+109kg ,Men,2024-04-11,MEDINA ANDUEZA Josue Said,9432.0,1275575,MEX,15.0,120,163,True,167,False,168,True,200,True,205,False,207,True,375
+423,Weightlifting,2024,Phuket,100017498,+109kg ,Men,2024-04-11,LITI David Andrew,9771.0,1343901,NZL,,120,175,True,181,True,185,False,228,False,228,False,0,False,0
+424,Weightlifting,2024,Phuket,100017498,+109kg ,Men,2024-04-11,KAGISO Bokang Alphius,9874.0,1343951,BOT,,120,0,False,0,False,0,False,0,False,0,False,0,False,0
+425,Weightlifting,2024,Phuket,100017498,+109kg ,Men,2024-04-11,KUCERA Kamil,14268.0,1439283,CZE,9.0,120,176,True,184,False,185,False,220,False,222,True,229,False,398
+426,Weightlifting,2024,Phuket,100017498,+109kg ,Men,2024-04-11,KUWORGE Enzo Kofi,8259.0,1441335,NED,8.0,120,175,True,179,True,182,False,225,True,235,False,0,False,404
+427,Weightlifting,2024,Phuket,100017498,+109kg ,Men,2024-04-11,DAVOUDI Ali,9152.0,1546611,IRI,2.0,120,195,True,200,False,202,True,240,True,252,True,0,False,454
+428,Weightlifting,2024,Phuket,100017498,+109kg ,Men,2024-04-11,PANYA Rungsuriya,8789.0,1645507,THA,16.0,120,152,True,156,True,160,False,202,True,207,False,208,False,358
+429,Weightlifting,2024,Phuket,100017498,+109kg ,Men,2024-04-11,ZIAZIULIN Eduard,9296.0,1666649,RUS,,100,200,False,200,False,201,False,0,False,0,False,0,False,0
+430,Weightlifting,2024,Phuket,100017498,+109kg ,Men,2024-04-11,BHANDARI Sagar,8310.0,1715874,NEP,20.0,120,127,True,134,True,136,False,165,True,172,True,175,False,306
+431,Weightlifting,2024,Phuket,100017498,+109kg ,Men,2024-04-11,EVERETT Quinn Ivan Clark,11444.0,1968726,CAN,18.0,120,150,True,155,True,160,False,190,False,190,True,195,True,350
+432,Weightlifting,2024,Phuket,100017498,+109kg ,Men,2024-04-11,DONG Bing-Cheng,8788.0,2066440,TPE,10.0,120,172,True,176,False,178,False,210,True,216,False,216,True,388
+433,Weightlifting,2024,Phuket,100017498,+109kg ,Men,2024-04-11,SHARIFIKELARIJANI Ayat,8735.0,2092594,IRI,3.0,120,184,True,192,True,201,True,230,True,246,True,252,False,447
+434,Weightlifting,2024,Phuket,100017498,+109kg ,Men,2024-04-11,RUBAIAWI Ali Ammar Yusur,7192.0,2198792,IRQ,5.0,120,195,False,195,True,199,False,232,True,0,False,0,False,427
+435,Weightlifting,2024,Phuket,100017498,+109kg ,Men,2024-04-11,BOUAMR Bilal,7344.0,2246774,MAR,19.0,120,147,True,152,True,156,False,185,False,190,True,192,False,342
+436,Weightlifting,2024,Phuket,100017498,+109kg ,Men,2024-04-11,MEDINA Alejandro Jose,10256.0,2323521,USA,13.0,120,170,True,175,False,178,False,200,True,210,True,221,False,380
+437,Weightlifting,2024,Phuket,100017498,+109kg ,Men,2024-04-11,JO Seongbin,10767.0,2372274,KOR,7.0,120,183,False,187,True,190,False,220,True,230,False,0,False,407
+438,Weightlifting,2024,Phuket,200017534,+87kg ,Women,2024-04-10,CAMPBELL Emily Jade,10932.0,1703592,GBR,,120,0,False,0,False,0,False,0,False,0,False,0,False,0
+439,Weightlifting,2024,Phuket,200017534,+87kg ,Women,2024-04-10,WANG Ling Chen,7601.0,1958331,TPE,8.0,120,110,True,115,True,118,True,140,True,144,True,148,True,266
+440,Weightlifting,2024,Phuket,200017534,+87kg ,Women,2024-04-10,PARK Hyejeong,7434.0,2066322,KOR,2.0,120,123,True,128,True,130,True,166,True,169,False,171,False,296
+441,Weightlifting,2024,Phuket,200017534,+87kg ,Women,2024-04-10,SANSYZBAYEVA Aisamal,7582.0,2066324,KAZ,11.0,120,100,True,105,True,109,False,130,False,130,True,135,False,235
+442,Weightlifting,2024,Phuket,200017534,+87kg ,Women,2024-04-10,JUSTINO DE LIMA Taiane,7359.0,2085964,BRA,9.0,120,102,True,105,True,108,True,135,True,141,True,145,True,253
+443,Weightlifting,2024,Phuket,200017534,+87kg ,Women,2024-04-10,THEISEN LAPPEN Mary Anne,12212.0,2092625,USA,5.0,120,118,False,118,True,122,False,151,True,156,True,162,False,274
+444,Weightlifting,2024,Phuket,200017534,+87kg ,Women,2024-04-10,NIMO Susana,10255.0,2463322,NZL,12.0,120,93,True,98,True,103,True,112,True,115,True,118,True,221
