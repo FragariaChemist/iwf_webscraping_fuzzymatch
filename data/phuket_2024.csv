@@ -1,0 +1,446 @@
+name,country,snatch1,snatch2,snatch3,cj1,cj2,cj3,total,snatch1_success,snatch2_success,snatch3_success,cj1_success,cj2_success,cj3_success
+LAI Gia Thanh,VIE,118,120,122,143,143,148,268,True,True,False,False,True,True
+CHOMCHUEN Natthawat,THA,116,119,121,145,150,150,269,True,True,False,True,False,True
+PANG Un Chol,PRK,115,118,120,147,152,152,270,True,True,False,True,False,True
+NGO Son Dinh,VIE,115,117,119,143,144,144,0,True,False,False,False,False,False
+YODAGE Dilanka Isuru Kumara,SRI,107,112,115,135,142,144,247,True,True,False,True,False,False
+ALPYSSOV Yernaz,KAZ,103,107,107,130,130,135,237,True,False,True,False,True,False
+MINGMOON Witoon,THA,105,110,110,140,143,148,248,True,False,False,True,True,False
+LI Fabin,CHN,138,143,146,166,173,173,312,True,True,True,True,False,False
+IRAWAN Eko Yuli,INA,133,0,0,162,0,0,0,True,False,False,False,False,False
+NGUYEN Tran Anh Tuan,VIE,129,131,132,159,161,161,0,True,False,True,False,False,False
+CENIZA John Febuar,PHI,130,132,134,163,166,168,300,True,True,False,True,True,True
+TRINH Van Vinh,VIE,129,131,133,163,163,165,294,True,True,False,False,True,False
+PAK Myong Jin,PRK,131,131,131,165,170,170,301,False,False,True,True,False,True
+CHOMCHUEN Teerapat,THA,126,130,132,161,165,165,291,True,True,False,True,False,False
+MISHVELIDZE Shota,GEO,130,130,130,152,160,160,282,False,False,True,True,False,False
+SILACHAI Theerapong,THA,125,128,130,162,167,171,299,True,True,False,True,True,True
+KAO Chan-Hung,TPE,123,127,129,155,161,161,282,True,True,False,True,False,False
+MORRIS Hampton Miller,USA,124,127,130,169,172,176,303,True,True,False,False,True,True
+ALSALEEM Seraj Abdulrahim M,KSA,126,130,130,161,161,164,0,True,False,False,False,False,False
+MUHAMAD Aznil Bin Bidin,MAS,125,130,133,159,163,163,284,True,False,False,True,False,False
+MOHAMAD ANIQ Bin Kasdan,MAS,125,125,125,165,165,172,290,False,False,True,False,True,False
+BARU Morea,PNG,118,121,124,153,157,157,281,True,True,True,True,False,True
+CALDERON LICOURT Arley Lazaro,CUB,122,127,127,163,168,172,285,True,False,False,True,False,False
+GUEMEZ CEL Victor Badur,MEX,112,117,120,140,145,148,262,True,True,False,True,True,False
+BIN HAJI ABU BAKAR Mohammad Nashrul,BRU,99,99,101,127,127,127,0,False,True,True,False,False,False
+NIYOYITA Davis,UGA,90,95,98,123,125,125,221,True,True,True,True,False,False
+ALOTAIBI Fahad H T H,KUW,85,85,85,105,110,110,195,False,False,True,True,False,True
+IANCU Valentin-Ionadi,ROU,105,0,0,0,0,0,0,False,False,False,False,False,False
+DIMOV Ivan Petkov,BUL,0,0,0,0,0,0,0,False,False,False,False,False,False
+BRANDHUBER Simon Josef,GER,128,130,130,0,0,0,0,False,False,False,False,False,False
+SHIN Rok,KOR,128,129,129,160,160,0,0,False,False,False,False,False,False
+ELIS Mustafa,TUR,119,119,120,0,0,0,0,False,False,False,False,False,False
+BARDALEZ TUISIMA Luis David,PER,120,120,120,155,160,160,0,False,False,False,True,False,False
+CHEN Lijun,CHN,140,140,143,0,0,0,0,False,False,False,False,False,False
+SAPUTRA Ricko,INA,130,132,134,0,0,0,0,False,False,False,False,False,False
+MIRZAYEV Seyitjan,TKM,130,130,133,150,0,0,0,False,False,False,False,False,False
+MASSIDDA Sergio,ITA,140,145,145,165,170,172,317,True,False,True,True,False,True
+RI Won Ju,PRK,135,141,144,174,182,189,333,True,True,True,True,True,True
+YASIN Mohammad,INA,130,133,140,160,165,165,293,True,True,False,True,False,False
+RATPHET Teerawat,THA,125,130,132,155,160,165,292,True,True,True,True,True,False
+DING Hongjie,CHN,125,128,131,165,165,165,0,True,True,False,False,False,False
+AL BUSAIDI Elyas Tamim,OMA,120,126,130,150,157,160,276,True,True,False,True,False,False
+THONGSUK Patsaphong,THA,115,120,123,145,150,155,278,True,True,True,True,True,True
+MURATBEK UULU Ishimbek,KGZ,118,122,125,160,166,172,294,True,True,False,True,True,True
+HU Jyun-Siang,TPE,115,115,115,155,163,166,270,False,False,True,True,False,False
+ABDULJALIL Munther Ahmed Mohammed Abdulla,UAE,78,78,78,95,100,102,180,False,False,True,True,True,True
+SHI Zhiyong,CHN,161,164,165,191,195,196,356,True,False,True,True,False,False
+JUNIANSYAH Rizki,INA,155,164,164,192,201,203,365,True,False,True,True,True,False
+ABDULLAH Rahmat Erwin,INA,155,160,162,195,206,206,355,True,True,False,True,False,False
+MIYAMOTO Masanori,JPN,150,155,158,187,192,0,350,True,False,True,True,True,False
+SUHAREVS Ritvars,LAT,151,154,157,178,184,187,341,True,True,True,True,True,False
+RASHIDOV Bunyad,TKM,152,155,158,170,181,181,325,False,True,False,True,False,False
+JAVADOV Omar,AZE,149,153,156,170,175,178,328,True,True,False,True,True,False
+GUTU Roberto,GER,148,152,153,175,183,183,0,True,True,True,False,False,False
+REYIMOV Bektimur,TKM,150,153,153,180,183,184,333,True,False,True,True,False,False
+CALJA Briken,ALB,145,150,152,181,185,185,333,True,True,True,True,False,False
+OZBEK Muhammed Furkan,TUR,148,150,152,186,189,189,341,True,True,True,True,False,True
+MAYORA PERNA Julio Ruben,VEN,147,151,151,183,185,188,339,True,False,True,True,True,True
+MOSQUERA LOZANO Luis Javier,COL,150,150,154,180,185,188,335,False,True,False,True,True,False
+BAK Joohyo,KOR,147,147,150,192,195,199,345,False,True,True,True,True,False
+LEE Sangyeon,KOR,148,148,151,195,198,198,0,False,True,False,False,False,False
+UMOAFIA Edidiong Joseph,NGR,142,147,150,172,177,177,319,True,True,False,True,False,False
+LANG Max Richard,GER,143,147,149,180,189,189,327,True,True,False,True,False,False
+BEN HNIA Karem,TUN,145,147,149,175,0,0,322,True,True,False,True,False,False
+WICHUMA Weeraphon,THA,147,150,151,192,193,193,0,True,False,False,False,False,False
+MURRAY Christopher John,GBR,144,146,150,0,0,0,0,False,True,False,False,False,False
+GENC Yusuf Fehmi,TUR,146,149,149,184,185,190,0,True,False,False,False,False,False
+RUSTAMOV Isa,AZE,140,145,145,170,175,180,320,True,False,True,True,True,False
+TOSHTEMIROV Mukhammadkodir,UZB,145,149,152,172,172,172,0,True,False,False,False,False,False
+GRIMSLAND Ryan Henry,USA,145,150,150,185,187,191,0,True,False,False,False,False,False
+KINGUE MATAM Bernardin Ledoux,FRA,143,145,145,177,183,183,0,True,False,False,False,False,False
+CAHOY Caden Taiyo,USA,143,147,147,187,193,193,0,True,False,False,False,False,False
+CHIANG Tsung-Han,TPE,138,142,142,168,173,177,319,True,False,True,True,True,True
+MUHAMMAD Erry Hidayat,MAS,140,140,140,165,170,174,310,False,False,True,True,True,False
+CHUANG Sheng-Min,TPE,140,144,144,172,177,180,317,True,False,False,True,True,False
+REYES VIDAL Jair Abimelet,ECU,140,140,145,0,0,0,0,False,True,False,False,False,False
+CARDENAS ESTRADA Jorge Adan,MEX,140,140,140,160,165,170,310,False,False,True,True,True,True
+KUDLASZYK Piotr Mateusz,POL,137,140,140,176,177,177,0,True,False,False,False,False,False
+VACHON Nicolas,CAN,135,135,135,170,177,177,305,False,False,True,True,False,False
+DISSANAYAKE MUDIYANSELAGE Indika C D,SRI,127,131,133,157,160,162,291,True,True,False,True,True,False
+TAIIROV Elzar,KGZ,125,130,135,145,152,157,282,True,True,False,True,True,False
+RAOBU Manuila,TUV,116,120,126,146,153,153,272,True,True,True,True,False,False
+ANDRIATSITOHAINA Tojonirina Alain,MAD,145,146,146,0,0,0,0,False,False,False,False,False,False
+ZANNI Mirko,ITA,150,153,153,0,0,0,0,False,False,False,False,False,False
+KONNAI Mitsunori,JPN,145,145,150,0,0,0,0,False,False,False,False,False,False
+SANCHEZ LOPEZ David,ESP,0,0,0,0,0,0,0,False,False,False,False,False,False
+YOKUBOV Doston,UZB,141,141,144,178,183,183,0,False,False,False,True,False,False
+RI Chong Song,PRK,160,166,166,200,210,210,366,True,False,True,True,False,False
+MEREDOV Maksad,TKM,142,146,150,175,182,0,328,True,True,False,True,True,False
+GUERTIN Samuel,CAN,140,140,140,170,175,180,315,False,False,True,True,True,False
+MEARS Omarie Akiel,JAM,115,119,123,145,145,145,264,True,True,False,False,False,True
+GADNEY Andre William,RSA,114,120,122,132,137,142,251,True,False,False,True,True,False
+MARTINS GARCIA VALENTE Jose Fernanior,TLS,88,91,93,112,115,115,205,True,True,True,True,False,False
+AlTHAFIRI Falah A H M,KUW,84,90,92,105,114,120,206,True,True,True,True,True,False
+ANDREEV Bozhidar Dimitrov,BUL,0,0,0,0,0,0,0,False,False,False,False,False,False
+LOPEZ LOPEZ Yeison,COL,175,181,182,205,210,215,392,True,False,True,True,True,False
+NASAR Karlos May,BUL,170,176,181,215,224,224,396,True,True,True,True,False,False
+LI Dayin,CHN,173,178,178,210,210,216,383,True,False,False,False,True,False
+TIAN Tao,CHN,171,176,177,215,226,226,0,True,False,False,False,False,False
+PIZZOLATO Antonino,ITA,170,175,176,210,210,215,380,True,False,False,False,True,False
+PETROVICH Sergey,KAZ,163,167,171,190,196,196,363,True,True,False,True,False,True
+BELLEMARRE Alex,CAN,163,167,170,195,195,200,362,True,True,False,False,True,False
+YU Dongju,KOR,163,166,168,200,209,209,375,True,True,False,True,False,True
+ROBU Marin,MDA,165,169,169,0,0,0,0,True,False,False,False,False,False
+VALLENILLA SANCHEZ Keydomar Giovanni,VEN,165,168,169,0,0,0,0,True,False,False,False,False,False
+ZAFARJONOV Sarvarbek,UZB,164,168,168,190,0,0,0,True,False,False,False,False,False
+SHOHRADOV Shatlyk,TKM,162,165,165,195,202,202,357,True,False,False,True,False,False
+SAEZ VERA Olfides,CUB,160,165,165,200,206,210,360,True,False,False,True,False,False
+MOLDODOSOV Emil,KGZ,153,157,160,182,187,190,347,True,False,True,True,True,False
+MEZINSKIS Armands,LAT,156,156,160,195,200,201,355,False,False,True,True,False,False
+JAVADI ALIABADI Mir Mostafa,IRI,160,0,0,206,0,0,0,True,False,False,False,False,False
+HSIEH Meng-En,TPE,155,155,155,192,192,200,355,False,False,True,False,True,True
+IAKOVIDIS Theodoros,GRE,153,158,160,183,187,190,336,True,False,False,True,False,False
+ASANIDZE Saba,GEO,146,150,152,183,187,191,343,True,True,True,True,True,True
+SAXTON Oliver Riley,AUS,145,145,150,185,185,188,335,False,True,True,False,True,False
+PENT Leho,EST,150,155,156,185,187,187,0,True,False,False,False,False,False
+ATENCIA PRIOU Amel Karim,PER,150,150,156,180,187,190,340,False,True,False,True,False,True
+BRUCE Kyle John Ryan Christopher P,AUS,145,149,149,187,187,187,336,True,False,True,False,False,True
+BROWN Sean Kevin,IRL,142,142,147,171,176,178,318,False,True,True,True,False,False
+CUMMINGS JR Clarence,USA,143,148,0,0,0,0,0,True,False,False,False,False,False
+BALUSHI Issa Rajab Mohammed Al Balushi,UAE,125,132,132,155,155,160,287,True,False,True,False,True,False
+OON Yuen Tzern,SGP,120,125,130,145,152,155,275,True,True,True,True,False,False
+SANTAVY Boady Robert,CAN,167,168,169,0,0,0,0,False,False,False,False,False,False
+ASAYONAK Petr,AIN,163,163,163,0,0,0,0,False,False,False,False,False,False
+TORAYEV Gaygysyz,TKM,153,153,155,0,0,0,0,False,False,False,False,False,False
+AL-KHANJARI Amur Salim Ramadhan,OMA,0,0,0,0,0,0,0,False,False,False,False,False,False
+MUELLER Nico,GER,160,160,163,0,0,0,0,False,False,False,False,False,False
+MENDEZ PEREZ Arley,CHI,163,163,163,0,0,0,0,False,False,False,False,False,False
+KARAPETYAN Andranik,ARM,170,171,175,0,0,0,0,False,False,False,False,False,False
+ESCUDERO ORDONEZ Ivan Andres,ECU,157,157,157,0,0,0,0,False,False,False,False,False,False
+DAMRON Nathan Charles,USA,165,166,167,196,205,206,0,False,False,False,True,False,False
+WON Jongbeom,KOR,170,179,179,210,219,0,389,True,False,False,True,True,False
+ABOKAHLA Karim Ibrahim Ibrahim Ali,EGY,165,171,171,205,0,0,370,True,False,False,True,False,False
+KENNEDY Braydon James,CAN,156,161,165,187,192,193,358,True,True,True,True,False,True
+NANAI LIVI Maeu,SAM,155,155,160,186,190,192,347,False,True,False,True,False,True
+TARMALOV Nursultan,KGZ,145,151,157,170,182,185,321,True,True,False,True,False,False
+LOPEZ CARPIZO Jose Luis,MEX,130,135,140,160,171,180,311,True,True,True,True,True,False
+MASHEGO Vuyani,RSA,122,127,127,157,162,162,284,True,False,True,True,False,False
+DALEY James Francis,JAM,110,113,116,135,138,141,251,True,True,False,True,True,False
+HAMADA Mohammed K H,PLE,100,0,0,120,0,0,220,True,False,False,True,False,False
+IMADOUCHENE Romain Jordan Sebastien,FRA,0,0,0,0,0,0,0,False,False,False,False,False,False
+HASANBAYEV Davranbek,TKM,180,185,187,205,207,207,392,True,True,True,True,False,False
+PAREDES MONTANO Lesman,BRN,181,186,0,212,0,0,398,True,True,False,True,False,False
+KARAPETYAN Garik,ARM,180,185,185,212,216,0,401,True,False,True,True,True,False
+TSIKHANTSOU Yauheni,AIN,175,180,183,210,217,225,400,True,False,True,True,True,False
+LIU Huanhua,CHN,175,181,186,220,225,232,413,True,True,False,True,True,True
+DEHDAR Reza,IRI,172,176,179,208,214,214,387,True,True,True,True,False,False
+BACHA Aymen,TUN,176,176,176,206,207,210,0,False,False,True,False,False,False
+MATYAKUBOV Shahzadbek,TKM,173,173,176,210,217,217,386,False,True,True,True,False,False
+SHARANKOU Siarhei,AIN,175,180,182,207,212,215,382,True,False,False,True,False,False
+JANG Yeonhak,KOR,175,180,180,0,0,0,0,True,False,False,False,False,False
+RIVAS MOSQUERA Jhonatan,COL,175,180,180,208,214,214,0,True,False,False,False,False,False
+MOCHIDA Ryunosuke,JPN,168,173,176,206,218,218,0,True,True,False,False,False,False
+BRATU Tudor,MDA,170,173,176,205,219,219,378,True,True,False,True,False,False
+GASPARYAN Samvel,ARM,172,177,181,0,0,0,0,True,False,False,False,False,False
+OPELOGE Don,SAM,170,170,170,215,215,221,391,False,False,True,False,True,True
+CHKHEIDZE Irakli,GEO,170,174,174,211,222,0,381,True,False,False,True,False,False
+SHUKURLU Ali,AZE,167,172,175,200,205,210,377,True,False,False,True,True,True
+RASULBEKOV Bekdoolot,KGZ,165,170,172,208,218,220,385,True,False,False,True,True,True
+PLESNIEKS Arturs,LAT,165,173,174,205,215,227,370,True,False,False,True,False,False
+EZZEDDIN Alghafeer,UAE,160,164,167,0,0,0,0,True,True,False,False,False,False
+ABUZRIBA Ahmed Mustafa Ahmed,LBA,158,163,169,192,198,201,361,True,True,False,True,True,False
+MUGURDUMOV Artur,ISR,155,159,163,198,203,205,361,True,True,True,True,False,False
+RAINIBOGI Taniela Tuisuva,FIJ,162,167,170,202,206,206,364,True,False,False,True,False,False
+MORA ROMERO Ramiro,WRT,157,162,165,197,0,0,359,True,True,False,True,False,False
+ZALDIVAR MELIAN Juan Carlos,CUB,158,158,163,200,207,210,358,False,True,False,True,False,False
+CHEN Hsiang-Yu,TPE,150,150,155,190,191,191,346,False,True,True,False,False,True
+VAUTARD Brandon Robert Jean,FRA,150,150,160,206,211,211,356,False,True,False,True,False,False
+ALSALLAJ Asem Mousa Husam,JOR,135,141,146,175,182,191,337,True,True,True,True,True,True
+UIKILIFI JR Joshua Makafana,TGA,140,145,150,180,185,190,330,True,True,False,True,True,False
+KACINSKAS Irmantas,LTU,145,145,151,175,177,184,322,False,True,False,False,True,False
+BURGER Ruben,RSA,130,135,140,160,165,168,295,True,True,False,True,False,False
+KITTS Wesley Brian,USA,0,0,0,0,0,0,0,False,False,False,False,False,False
+GARCES FRANCO Oscar Andres,COL,165,165,170,0,0,0,0,False,False,False,False,False,False
+SALEM Yasser Usama Hemdan Mohamed,EGY,170,170,170,0,0,0,0,False,False,False,False,False,False
+HOFMANN Matthaeus Klaus Lorant Georg,GER,170,0,0,0,0,0,0,False,False,False,False,False,False
+KASABIJEW Arsen,POL,162,0,0,0,0,0,0,False,False,False,False,False,False
+JIN Yunseong,KOR,175,178,178,0,0,0,0,False,False,False,False,False,False
+ELBAKH Fares Ibrahim E. H.,QAT,0,0,0,0,0,0,0,False,False,False,False,False,False
+SUMPRADIT Sarat,THA,172,172,173,0,0,0,0,False,False,False,False,False,False
+CHEN Po-Jen,TPE,176,178,178,0,0,0,0,False,False,False,False,False,False
+DJURAEV Akbar,UZB,180,185,189,220,227,0,416,True,True,True,True,True,False
+DADASHBAYLI Dadash,AZE,171,177,181,205,211,0,388,True,True,False,True,True,False
+AMRIDDINOV Sharofiddin,UZB,170,176,176,195,203,208,378,True,False,False,True,True,True
+LOMTADZE Zaza,GEO,160,165,170,202,202,209,379,True,True,True,False,True,True
+MEIRAM Sultan,KAZ,140,150,155,180,190,195,340,True,True,False,True,True,False
+VIERA ESPINOZA Hernan Moises,PER,145,150,155,205,205,210,360,True,True,False,False,True,True
+MA Ching-Chieh,TPE,140,150,150,180,190,190,330,True,False,True,True,False,False
+CHANDLER Liam,RSA,133,138,140,152,153,157,286,True,False,False,False,True,False
+LALAYAN Varazdat,ARM,205,210,215,243,253,0,463,True,True,False,True,True,False
+DAVOUDI Ali,IRI,195,200,202,240,252,0,454,True,False,True,True,True,False
+SHARIFIKELARIJANI Ayat,IRI,184,192,201,230,246,252,447,True,True,True,True,True,False
+BIDANI Walid,ALG,190,197,202,216,220,229,426,True,True,False,False,True,True
+MARTIROSYAN Simon,ARM,195,202,202,245,253,253,440,True,False,False,True,False,False
+RUBAIAWI Ali Ammar Yusur,IRQ,195,195,199,232,0,0,427,False,True,False,True,False,False
+MURAKAMI Eishiro,JPN,185,190,192,232,232,237,0,True,True,False,False,False,False
+CHINEN Kosuke,JPN,188,191,191,218,234,235,0,True,False,False,False,False,False
+JO Seongbin,KOR,183,187,190,220,230,0,407,False,True,False,True,False,False
+LITI David Andrew,NZL,175,181,185,228,228,0,0,True,True,False,False,False,False
+MAO Sanele,SAM,180,180,185,225,225,234,0,False,True,False,False,False,False
+SEIM Mart,EST,180,180,185,0,0,0,0,False,True,False,False,False,False
+KUWORGE Enzo Kofi,NED,175,179,182,225,235,0,404,True,True,False,True,False,False
+KUCERA Kamil,CZE,176,184,185,220,222,229,398,True,False,False,False,True,False
+DONG Bing-Cheng,TPE,172,176,178,210,216,216,388,True,False,False,True,False,True
+WILKES Caine Morgan,USA,170,175,175,208,214,221,384,True,False,False,True,True,False
+TOYCHYYEV Hojamuhammet,TKM,170,174,174,210,213,216,383,True,False,False,True,True,False
+MEDINA Alejandro Jose,USA,170,175,178,200,210,221,380,True,False,False,True,True,False
+MEDINA ANDUEZA Josue Said,MEX,163,167,168,200,205,207,375,True,False,True,True,False,True
+LITVINOV David,ISR,167,172,172,205,210,215,377,True,False,False,True,True,False
+COULLET Anthony Jean Pierre,FRA,159,164,169,210,228,228,0,True,True,False,False,False,False
+LEMUS CALANCHE Gilberto Antonio,GUA,163,163,168,190,195,196,353,False,True,False,True,False,False
+PANYA Rungsuriya,THA,152,156,160,202,207,208,358,True,True,False,True,False,False
+EVERETT Quinn Ivan Clark,CAN,150,155,160,190,190,195,350,True,True,False,False,True,True
+BOUAMR Bilal,MAR,147,152,156,185,190,192,342,True,True,False,False,True,False
+BHANDARI Sagar,NEP,127,134,136,165,172,175,306,True,True,False,True,True,False
+ALNAJJAR M Moayad M,UAE,170,171,171,0,0,0,0,False,False,False,False,False,False
+ZIAZIULIN Eduard,AIN,200,200,201,0,0,0,0,False,False,False,False,False,False
+ELSAYED Abdelrahman Mohamed A. A.,EGY,0,0,0,0,0,0,0,False,False,False,False,False,False
+TALAKHADZE Lasha,GEO,0,0,0,0,0,0,0,False,False,False,False,False,False
+KAJDOCI Tamas,SRB,0,0,0,0,0,0,0,False,False,False,False,False,False
+NAGY Peter,HUN,0,0,0,0,0,0,0,False,False,False,False,False,False
+MINASYAN Gor Tigran A.,BRN,0,0,0,0,0,0,0,False,False,False,False,False,False
+KAGISO Bokang Alphius,BOT,0,0,0,0,0,0,0,False,False,False,False,False,False
+ASAAD Man,SYR,0,0,0,0,0,0,0,False,False,False,False,False,False
+WON Hyon Sim,PRK,80,85,87,100,106,109,196,True,True,True,True,True,True
+KHONG My Phuong,VIE,72,74,76,84,86,86,160,True,True,True,True,False,False
+PRAMONGHKHOL Siriwimon,THA,73,73,75,90,96,101,176,False,True,True,True,True,True
+NGUYEN Thi Hoai,VIE,68,70,72,85,85,85,0,True,True,True,False,False,False
+KAMNOEDSRI Khemika,THA,67,69,71,82,86,86,153,True,True,True,True,False,False
+HONG Zi-Yu,TPE,68,68,68,86,86,86,0,False,False,True,False,False,False
+ISMAYILOVA Nazila,AZE,55,60,60,65,69,72,127,True,False,False,True,False,True
+HOU Zhihui,CHN,93,97,99,113,120,120,217,True,True,False,True,False,True
+RI Song Gum,PRK,91,95,97,120,124,126,221,True,True,True,True,True,False
+JIANG Huihua,CHN,90,94,94,114,120,123,208,True,False,True,True,False,False
+SUKCHAROEN Thanyathon,THA,88,91,93,0,0,0,0,True,True,False,False,False,False
+LOPEZ FERRER Ana Gabriela,MEX,84,87,88,100,104,104,187,True,True,False,True,False,False
+RAMOS Rosegie,PHI,85,87,87,103,103,105,190,True,False,True,False,True,False
+KHAMBAO Surodchana,THA,85,88,88,106,109,111,194,True,False,False,True,True,False
+SUZUKI Rira,JPN,83,85,87,107,110,112,197,True,True,False,True,True,True
+ECHANDIA ZARATE Katherin Oriana,VEN,81,83,85,102,106,108,193,True,True,True,True,True,True
+IMPERIO Giulia,ITA,85,85,85,104,104,104,0,False,False,True,False,False,False
+AISAH Windy Cantika,INA,80,80,84,100,100,105,184,False,True,True,False,True,False
+FANG Wan Ling,TPE,82,84,85,102,104,108,192,True,True,False,True,True,True
+MIRABAI Chanu Saikhom,IND,75,79,81,98,103,106,184,True,True,True,True,True,False
+ORTIZ Dahiana,DOM,81,83,83,105,111,111,186,True,False,False,True,False,False
+KLARISA Juliana,INA,77,80,82,102,102,102,0,True,True,False,False,False,False
+PHAM Dinh Thi,VIE,77,77,80,97,100,102,180,False,True,True,True,True,False
+INAN Lovely,PHI,79,79,82,101,101,0,0,False,True,False,False,False,False
+DE LA HERRAN MARTINEZ Andrea,MEX,78,81,81,95,95,100,173,True,False,False,False,True,False
+PANFILOVA Jamila,UZB,77,80,80,93,95,95,170,True,False,False,True,False,False
+MEGO CONTRERAS Shoely Mabel,PER,77,77,79,97,97,100,174,False,True,False,False,True,False
+RANDAFIARISON Rosina,MAD,75,75,77,95,100,100,172,False,True,True,True,False,False
+BOMIRIYAGE GOMAS Dinusha Hansani,SRI,72,76,79,85,90,90,161,True,True,False,True,False,False
+TOUA Loa Dika,PNG,73,75,77,96,96,96,171,True,True,False,False,False,True
+ABDYKALYKOVA Ainur,KAZ,65,69,72,81,85,88,160,True,True,True,True,True,True
+NGUYEN Tham,IRL,70,70,73,91,94,96,166,False,True,False,True,False,True
+ALICI Duygu,TUR,70,70,70,85,90,0,160,False,False,True,True,True,False
+FAJRESLAM Maha,MAR,65,65,65,80,85,86,145,False,False,True,True,False,False
+LIN Cheng Jing,TPE,82,82,82,0,0,0,0,False,False,False,False,False,False
+AJIMA Chiaki,JPN,81,81,83,103,103,103,0,False,False,False,False,False,False
+PIRON CANDELARIO Beatriz Elizabeth,DOM,0,0,0,0,0,0,0,False,False,False,False,False,False
+SHIN Jaegyeong,KOR,81,81,82,100,103,103,0,False,False,False,True,False,False
+KEAN Brenna Mae,AUS,72,74,74,0,0,0,0,False,False,False,False,False,False
+KANG Hyon Gyong,PRK,96,101,103,120,131,0,234,True,True,True,True,True,False
+CAMBEI Mihaela-Valentina,ROU,88,91,93,103,108,110,201,True,True,False,True,True,True
+GALLANT Josee,CAN,85,85,90,105,109,109,194,False,True,False,True,False,True
+YODSARN Poisian,THA,81,84,87,100,100,100,184,True,True,False,False,False,True
+ABDULLAEVA Nigora,UZB,83,86,86,102,105,109,188,True,False,False,True,True,False
+SOROKHAIBAM Bindyarani Devi,IND,83,83,86,110,113,119,196,False,True,False,True,True,False
+HU Chia Chi,TPE,80,80,84,106,109,110,186,False,True,False,True,False,False
+WINI Jenly Tegu,SOL,74,78,80,95,100,102,175,True,True,True,True,False,False
+RODRIGUEZ Isabella Mia,USA,72,75,78,98,102,105,180,True,True,True,True,True,False
+HAENGNAMCHOT Panadda,THA,72,75,78,94,97,100,175,True,True,False,True,True,True
+CHUA Jiin Linn,SGP,63,66,69,85,89,91,155,True,True,False,True,True,False
+SIDEK Liyana Safiah,BRU,57,59,60,70,70,73,130,True,False,False,False,True,True
+DELACRUZ Jourdan Elizabeth,USA,0,0,0,0,0,0,0,False,False,False,False,False,False
+KIM Il Gyong,PRK,102,106,108,125,132,132,240,True,True,True,True,False,True
+LUO Shifang,CHN,103,108,108,133,140,140,248,True,False,True,True,False,True
+CHARRON Maude G,CAN,100,103,106,125,129,130,236,True,True,True,True,False,True
+PEI Xinyi,CHN,103,107,107,130,134,134,233,True,False,False,True,False,False
+VENEGAS VALERA Anyelin Maria,VEN,98,101,103,120,124,126,229,True,True,True,True,True,True
+RODRIGUEZ GOMEZ Genesis Lourdes,VEN,99,102,104,122,122,126,0,True,True,False,False,False,False
+LAWAL Rafiatu Folashade,NGR,96,101,101,121,126,128,227,True,False,True,True,True,False
+TCHAKOUNTE Dora Meiriama,FRA,95,98,101,115,120,123,224,True,True,True,True,True,True
+STERCKX Nina,BEL,96,100,102,111,116,121,216,True,True,False,True,True,False
+KUO Hsing-Chun,TPE,98,100,102,125,130,0,230,True,True,False,True,True,False
+ANDO Elreen Ann,PHI,98,100,102,125,125,128,228,True,True,False,False,True,True
+ALVAREZ CAICEDO Yenny Fernanda,COL,98,98,100,125,130,130,225,False,True,True,True,False,False
+SASSER Mathlynn Langtor,MHL,94,97,99,113,117,120,216,True,True,True,True,True,False
+MAGISTRIS Lucrezia,ITA,99,102,103,115,115,115,214,True,False,False,False,False,True
+DIAZ Hidilyn,PHI,95,99,101,123,127,127,222,True,True,False,True,False,False
+BETEYOB Natasya,INA,94,98,100,115,124,124,213,True,True,False,True,False,False
+SARAH,INA,93,96,100,113,117,117,209,True,True,False,True,False,False
+QUANG Thi Tam,VIE,96,96,99,116,122,122,212,False,True,False,True,False,False
+ELLIOTT Kiana Rose,AUS,95,98,99,112,114,118,209,True,False,False,True,True,False
+YODSARN Suratwadee,THA,92,95,97,123,123,127,0,True,True,False,False,False,False
+HAN Jian,KOR,93,95,99,107,112,115,207,False,True,False,True,True,False
+COTRUTA Andreea,ROU,90,93,94,113,118,118,207,True,False,True,True,False,False
+RETULAINEN Saara Sylvia Amanda,FIN,94,97,97,124,124,124,0,True,False,False,False,False,False
+ANDOH Mikiko,JPN,92,94,94,121,126,126,213,True,False,False,True,False,False
+SHERMETOVA Kristina,TKM,91,91,94,111,111,115,0,False,True,False,False,False,False
+GEORGOPOULOU Sofia,GRE,85,90,90,105,110,110,195,True,False,True,True,False,False
+GUILLEN VAZQUEZ Daphne,MEX,90,90,95,117,117,117,0,False,True,False,False,False,False
+MOORE Shayla Mariah,USA,82,85,88,110,110,115,203,True,True,True,False,True,True
+KARDARA Maria,GRE,84,87,90,103,105,107,192,True,True,False,True,True,False
+CHIU Yu Ling,TPE,82,84,86,110,111,115,201,True,True,True,False,True,True
+CRYMBLE Hannah,IRL,82,85,85,100,103,104,185,True,False,True,True,False,False
+SMITH Zoe,GBR,85,85,88,109,113,116,198,False,True,False,True,True,False
+SHEPARD Kayla,CAN,79,83,83,104,108,110,191,True,False,True,True,True,False
+ENKHBAATAR Enkhtamir,MGL,83,83,86,100,104,107,187,False,True,False,True,True,False
+MEISTER Scheila,SUI,78,80,82,100,100,104,182,True,True,True,False,True,False
+BALABAYUK Darya,KAZ,78,81,82,95,99,101,181,True,False,True,True,True,False
+CASADEVALL Maria Luz,ARG,80,87,95,101,105,120,185,True,False,False,True,True,False
+LIFU Mary Kini,SOL,67,70,72,85,90,93,160,True,True,False,True,True,False
+SPIES Anneke,RSA,80,80,80,96,99,102,0,False,False,False,True,True,False
+KONOTOP Kamila,UKR,0,0,0,0,0,0,0,False,False,False,False,False,False
+WILKINS Taylor Nicole,USA,97,98,98,0,0,0,0,False,False,False,False,False,False
+ANDERSSON Ine Drablos,NOR,90,91,91,113,113,119,0,False,False,False,False,True,False
+GOMEZ VALDIVIA Janeth,MEX,97,97,100,0,0,0,0,False,False,False,False,False,False
+RIGAUD Garance,FRA,94,94,95,0,0,0,0,False,False,False,False,False,False
+RIM Un Sim,PRK,111,111,114,140,144,147,258,False,True,True,True,True,False
+RI Suk,PRK,108,113,113,140,147,147,248,True,False,False,True,False,False
+SAMULIAK Svitlana,UKR,98,101,101,116,120,122,221,True,False,True,True,True,False
+DAVYDOVA Hanna,UKR,94,94,100,112,117,121,211,False,True,False,True,True,False
+THORNTON Tenishia,MLT,84,87,90,105,109,111,201,True,True,True,True,True,True
+MCINTYRE Emma,NZL,83,83,87,103,107,110,197,False,True,True,True,True,True
+BARRY Gillian,IRL,78,78,78,92,96,100,178,False,False,True,True,True,True
+NICOLE HENG Lin Li,SGP,70,75,76,90,94,96,170,True,False,True,True,True,False
+NAKIDDE Lydia,UGA,65,70,72,85,90,92,164,True,True,True,True,True,True
+LANGAT Winny Chepngeno,KEN,65,68,68,85,86,88,151,True,False,False,False,True,False
+BURGER Chantelle,RSA,64,67,67,82,86,87,151,True,False,False,True,False,True
+KAMSHAD Alzahraa M N A,KUW,55,62,66,73,78,82,140,True,True,False,True,True,False
+REEVES Olivia Lynn,USA,112,115,118,142,147,150,268,True,True,True,True,True,True
+SONG Kuk Hyang,PRK,115,120,120,146,154,154,261,True,False,False,True,False,False
+LIAO Guifang,CHN,115,120,120,149,149,154,264,True,False,False,False,True,False
+PALACIOS DAJOMES Angie Paola,ECU,113,113,116,132,136,0,245,False,True,False,True,False,False
+SARNO Vanessa,PHI,105,108,110,135,135,138,245,True,True,True,False,True,False
+SANCHEZ PERINAN Mari Leivis,COL,104,104,110,130,135,135,240,False,True,True,True,False,False
+MIRABAL FERIA Yeniuska,CUB,103,107,109,129,133,133,238,True,True,True,True,False,False
+VALODZKA Siuzanna,AIN,103,106,108,129,134,136,237,True,True,True,True,False,False
+SCHWEIZER Lisa Marie,GER,103,107,107,122,128,132,229,True,False,True,True,False,False
+STURLUDOTTIR Eyglo Fanndal,ISL,103,106,108,130,134,134,236,True,True,False,True,False,False
+MUN Minhee,KOR,101,104,106,128,134,134,234,True,True,True,True,False,False
+PHAM Thi Hong Thanh,VIE,103,105,107,126,135,135,231,False,True,False,True,False,False
+YLISOINI Anna Janette Tellervo,FIN,103,103,105,123,127,127,228,False,False,True,True,False,False
+TOMA Loredana-Elena,ROU,105,110,110,125,130,134,235,True,False,False,True,True,False
+CHEN Wen-Huei,TPE,103,105,108,133,135,141,246,False,True,False,False,True,True
+EZE Joy Ogbonne,NGR,103,103,106,131,136,138,239,False,True,False,True,True,False
+MACROHON Kristel,PHI,103,103,103,130,135,138,233,False,False,True,True,False,False
+ASHWORTH Alexis,CAN,101,101,104,125,129,130,231,False,True,False,True,False,True
+GOLD Celia Henna,ISR,98,101,101,125,131,131,226,True,False,True,True,False,False
+RAMADANI Tsabitha Alfiah,INA,100,103,103,115,118,120,220,True,False,False,True,True,True
+DAVIES Sarah,GBR,100,103,104,130,134,139,230,True,False,False,True,False,False
+ALWINE Meredith Leigh,USA,99,102,103,130,130,133,232,True,False,False,False,True,True
+GANZORIG Anuujin,MGL,93,95,100,115,120,125,210,False,True,False,True,False,False
+SELEMAIA Olivia Shalom,NZL,92,92,95,115,119,119,210,False,True,True,True,False,False
+UEPA Maximina,NRU,93,93,95,119,119,119,0,False,True,True,False,False,False
+LENT Ketty,MRI,90,95,100,115,120,120,210,True,True,False,True,False,False
+JAKAITE Lijana,LTU,94,97,97,114,115,118,209,True,False,False,False,True,False
+NICHELE Jacqueline Mary,AUS,90,94,97,115,120,122,214,True,True,False,True,True,False
+COCHRANE Sarah Maureen,AUS,93,97,97,115,122,122,208,True,False,False,True,False,False
+GARCIA HERNANDEZ Diana Laura,MEX,92,95,95,122,127,127,214,True,False,False,True,False,False
+GRAILLOT Vicky,FRA,91,91,95,116,120,124,211,False,True,False,True,True,False
+TABONE Roberta,MLT,85,88,88,105,108,108,193,True,False,True,True,False,False
+JEFFERIES Laryne,RSA,86,86,86,103,107,109,189,False,False,True,True,False,False
+ENOCK Rachel Achieng,KEN,73,76,76,86,88,91,164,True,False,True,True,True,False
+ALMADANI Mai Ahmad Essa Ahmad,UAE,70,73,73,85,88,88,158,True,False,True,True,False,False
+ALAMEER Hanan Y M A H,KUW,60,65,65,70,73,75,138,True,False,True,True,True,False
+ALMOHAMMAD Zainab S F M F,KUW,53,58,61,70,78,78,139,True,True,True,True,False,True
+DA COSTA Schott Amanda,BRA,0,0,0,0,0,0,0,False,False,False,False,False,False
+SAID Neama Said Fahmi,EGY,0,0,0,0,0,0,0,False,False,False,False,False,False
+SEGAWA Runa,JPN,100,100,102,124,127,131,0,False,False,False,True,True,False
+MISERENDINO Giulia,ITA,103,103,0,0,0,0,0,False,False,False,False,False,False
+FEGUE Marie Josephe,FRA,108,112,115,130,135,138,245,True,True,True,True,False,False
+JONG Chun Hui,PRK,110,110,114,140,145,148,259,False,True,True,True,True,False
+MENDOZA CARABALI Miyareth,COL,103,106,110,130,134,137,240,True,True,False,True,True,False
+BEDWARD Shania Sophia,CAN,101,102,102,127,132,135,234,False,False,True,True,True,False
+WONGSING Phattharathida,THA,93,97,100,120,125,131,225,True,True,True,True,True,False
+LIAO Yi-Tzu,TPE,93,96,97,115,120,124,217,True,False,True,True,True,False
+FATTOUH Mahassen Hala,LBN,92,96,100,113,119,124,215,True,True,False,True,True,False
+ROHR Estelle Sylvia,USA,95,98,101,124,128,131,223,True,False,False,True,True,False
+OTGONCHIMEG Tugs-Erdene,MGL,93,93,98,110,115,115,203,False,True,False,True,False,False
+GAVRAN Ivona,CRO,80,80,80,100,100,100,180,False,False,True,False,False,True
+DAJOMES BARRERA Neisi Patricia,ECU,118,121,123,143,146,0,269,True,True,True,True,True,False
+WANG Zhouyu,CHN,120,125,125,147,150,150,267,True,False,False,True,False,False
+KIM Iseul,KOR,110,115,118,140,143,143,255,True,True,False,True,False,False
+CIKAMATANA Eileen Floanna Maria,AUS,110,114,114,145,149,153,263,True,False,True,True,True,False
+VIBERT Katherine Elizabeth,USA,109,113,116,140,145,151,258,True,True,False,True,True,False
+LIANG Xiaomei,CHN,110,113,113,140,148,148,253,True,False,True,True,False,False
+NASCIMENTO AMARO Laura,BRA,107,110,112,133,137,141,253,True,True,True,False,True,True
+KIM Suhyeon,KOR,108,112,112,140,144,144,256,True,False,True,False,False,True
+MEJIA PEGUERO Yudelina,DOM,107,111,111,133,138,142,244,True,False,True,True,False,False
+RUSTAMOVA Anamjan,TKM,105,108,110,130,134,135,240,True,True,True,True,False,False
+ZIELINSKA STUBINSKA Weronika,POL,107,107,110,131,135,136,241,False,True,True,True,False,False
+NOLASCO HERNANDEZ Lizbeth Gabriela,MEX,105,105,108,123,127,130,238,False,True,True,True,True,True
+ERIGHINA Elena,MDA,103,106,108,125,132,136,240,True,True,True,True,True,False
+ADASHBAEVA Rigina,UZB,104,107,109,132,136,138,239,True,True,False,True,False,False
+DUMAS Rosalie,CAN,102,106,108,125,125,125,0,True,True,False,False,False,False
+MUNKHJANTSAN Ankhtsetseg,MGL,105,0,0,0,0,0,0,True,False,False,False,False,False
+CHIRINOS LEON Dayana Aracelis,VEN,105,105,105,135,138,139,240,False,False,True,True,False,False
+LOWIK Nikki Merel Elisabeth,NED,103,103,107,0,0,0,0,False,True,False,False,False,False
+FEKLISTOVA Katrina,GBR,102,102,107,124,127,130,229,False,True,False,True,True,False
+LAYLOR Maya Celeste,CAN,102,106,106,132,136,136,234,True,False,False,True,False,False
+JAMALI GALEH Yekta,WRT,95,95,100,117,121,125,225,False,True,True,True,True,True
+LO Ying-Yuan,TPE,100,100,105,125,129,132,229,False,True,False,True,True,False
+VALDES PARIS Maria Fernanda,CHI,98,100,100,123,123,0,221,True,False,False,False,True,False
+BRAZAITE Gintare,LTU,96,97,102,115,120,125,222,False,True,False,True,True,True
+WHITING Hayley Elizabeth,NZL,93,93,93,109,113,115,202,False,False,True,True,False,False
+SABIHI Rkia,MAR,85,90,90,105,108,110,0,True,False,False,False,False,False
+NAGASHIMA Wakana,JPN,105,105,105,0,0,0,0,False,False,False,False,False,False
+AHMED Sara Samir Elsayed Mohamed,EGY,0,0,0,0,0,0,0,False,False,False,False,False,False
+PRITCHARD LOLO Ajah,VAN,90,90,90,100,105,110,0,False,False,False,True,True,True
+FUENTES ZAVALA Aremi,MEX,105,105,105,0,0,0,0,False,False,False,False,False,False
+SALAZAR ARCE Tamara Yajaira,ECU,0,0,0,0,0,0,0,False,False,False,False,False,False
+ROGERS Martha Ann,USA,0,0,0,0,0,0,0,False,False,False,False,False,False
+NARIN Dilara,TUR,98,100,100,125,130,132,0,False,False,False,True,False,False
+MEDINA ROCA Ayamey Damiana,CUB,0,0,0,0,0,0,0,False,False,False,False,False,False
+KOANDA Solfrid Eila Amena,NOR,116,121,123,152,158,158,275,True,False,True,True,False,False
+KIM Yong Ju,PRK,108,108,113,135,145,148,258,False,True,True,True,True,False
+MANIEVSKA Anastasiia,UKR,103,105,107,124,126,129,234,True,True,False,True,True,True
+PETERSON Eliise,EST,96,101,104,116,121,123,225,True,True,True,True,True,False
+MITYKO Veronika,HUN,100,103,105,114,118,121,221,True,True,False,True,True,False
+SUVONOVA Nigora,UZB,95,99,99,122,125,127,220,True,False,False,True,True,False
+ALBULOUSHI Fatemah M A M J,KUW,63,68,71,85,90,95,161,True,True,True,True,True,False
+SENICOVA Nikola,SVK,0,0,0,0,0,0,0,False,False,False,False,False,False
+LI Wenwen,CHN,133,140,145,170,180,0,325,True,True,True,True,True,False
+PARK Hyejeong,KOR,123,128,130,166,169,171,296,True,True,True,True,False,False
+SON Younghee,KOR,122,127,128,161,171,177,283,True,False,False,True,False,False
+CHAIDEE Duangaksorn,THA,115,119,122,150,155,158,280,True,True,True,True,True,True
+JABBOROVA Tursunoy,UZB,115,119,121,138,138,142,0,True,True,False,False,False,False
+PEREZ REVERON Naryury Alexandra,VEN,114,117,119,143,148,151,267,True,True,True,True,True,False
+WANG Ling Chen,TPE,110,115,118,140,144,148,266,True,True,True,True,True,True
+THEISEN LAPPEN Mary Anne,USA,118,118,122,151,156,162,274,False,True,False,True,True,False
+SANTANA PEGUERO Crismery Dominga,DOM,112,116,116,140,140,0,0,True,False,True,False,False,False
+SIPAIA Iuniarra,SAM,105,110,112,150,155,160,267,True,True,True,True,True,False
+JUSTINO DE LIMA Taiane,BRA,102,105,108,135,141,145,253,True,True,True,True,True,True
+AKMAL Nurul,INA,107,115,115,145,147,150,0,True,False,False,False,False,False
+SANSYZBAYEVA Aisamal,KAZ,100,105,109,130,130,135,235,True,True,False,False,True,False
+FISCHER Sarah,AUT,100,104,107,132,132,0,236,True,True,False,False,True,False
+NIMO Susana,NZL,93,98,103,112,115,118,221,True,True,True,True,True,True
+UCELO MARROQUIN Scarleth Vanessa,GUA,75,80,80,100,105,110,180,True,False,False,True,True,False
+ABBAS Halima Abdelazim Sedky,EGY,0,0,0,0,0,0,0,False,False,False,False,False,False
+AYOVI CABEZAS Lisseth Betzaida,ECU,0,0,0,0,0,0,0,False,False,False,False,False,False
+HOTFRID Anastasiia,GEO,0,0,0,0,0,0,0,False,False,False,False,False,False
+CAMPBELL Emily Jade,GBR,0,0,0,0,0,0,0,False,False,False,False,False,False
