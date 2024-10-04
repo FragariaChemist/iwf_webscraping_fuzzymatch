@@ -4,7 +4,7 @@
 
 ## Direct Link to Jupyter Notebook
 ---
-* 01 - [IWF BeautifulSoup Web Scrape Script](./code/webscrape.ipynb)
+[IWF BeautifulSoup Web Scrape Script](./code/webscrape.ipynb)
 
 
 ## Background
@@ -34,7 +34,7 @@ After collecting the data, the next step is to create features that indicate whe
 ---
 |Dataset|Type|Source|Description|
 |---|---|---|---|
-|**iwf_df.csv**|*Generated*|BeautifulSoup Script|CSV data generated from using BeautifulSoup for webscraping and feature engineering
+|**phuket_2024.csv**|*Generated*|BeautifulSoup Script|CSV data generated from using BeautifulSoup for webscraping and feature engineering
 
 ## Process
 ---
