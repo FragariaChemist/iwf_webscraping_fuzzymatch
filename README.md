@@ -61,7 +61,7 @@ Finally, a fuzzy matching algorithm using FuzzyWuzzy to align athlete names and 
 - The web-scraped dataset is then merged with the proprietary dataframe based on the best_match column.
 - The final dataframe is cleaned and organized for future analysis.
 
-## Feature Dictionary For Web Scaped Data (
+## Feature Dictionary For Web Scaped Data
 ---
 |Feature|Type|Description|
 |---|---|---|
