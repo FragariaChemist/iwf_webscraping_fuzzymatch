@@ -28,7 +28,7 @@ After collecting the data, the next step is to create features that indicate whe
 
 ## Resources
 * 2024.09.12/ChatGPT accessed
-* Referenced [repository](https://github.com/jwc20/iwf_api/blob/main/iwf/result.py) by [jwc20](https://github.com/jwc20)
+* Referenced [repository](https://github.com/jwc20/iwf_api/blob/main/iwf/result.py) by [jwc20](https://github.com/jwc20) -- This was invaluble in helping me understand how the website was structured with regards to using BeautifulSoup as well as expanding my knowledge on how to use this library.  Thank you jwc20!
 ---
 ## Dataset Dictionary
 ---
