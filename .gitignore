@@ -68,6 +68,10 @@ local_settings.py
 db.sqlite3
 db.sqlite3-journal
 
+
+# Ignore virtual documents
+.virtual_documents/
+
 # Flask stuff:
 instance/
 .webassets-cache
